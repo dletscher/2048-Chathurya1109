@@ -1,0 +1,6765 @@
+         8     2       
+                     4 
+         4           4 
+         2             
+Score = 0
+
+[INFO] Chosen move: L
+
+   8     2           2 
+   4                   
+   8                   
+   2                   
+Score = 8
+
+[INFO] Chosen move: D
+
+   8     2             
+   4                   
+   8                   
+   2     2           2 
+Score = 8
+
+[INFO] Chosen move: L
+
+   8     2             
+   4                   
+   8                   
+   4     2     4       
+Score = 12
+
+[INFO] Chosen move: D
+
+   8                   
+   4                   
+   8                   
+   4     4     4     4 
+Score = 16
+
+[INFO] Chosen move: R
+
+               4     8 
+                     4 
+                     8 
+               8     8 
+Score = 32
+
+[INFO] Chosen move: D
+
+         2             
+                     8 
+               4     4 
+               8    16 
+Score = 48
+
+[INFO] Chosen move: L
+
+   2                   
+   8                   
+   8                   
+   8    16     2       
+Score = 56
+
+[INFO] Chosen move: D
+
+                       
+   2     2             
+   8                   
+  16    16     2       
+Score = 72
+
+[INFO] Chosen move: L
+
+                       
+   4                   
+   8                   
+  32     2     2       
+Score = 108
+
+[INFO] Chosen move: L
+
+                       
+   4     2             
+   8                   
+  32     4             
+Score = 112
+
+[INFO] Chosen move: D
+
+                       
+   4                   
+   8     2           2 
+  32     4             
+Score = 112
+
+[INFO] Chosen move: L
+
+   2                   
+   4                   
+   8     4             
+  32     4             
+Score = 116
+
+[INFO] Chosen move: D
+
+   2                   
+   4                   
+   8                   
+  32     8           4 
+Score = 124
+
+[INFO] Chosen move: L
+
+   2           4       
+   4                   
+   8                   
+  32     8     4       
+Score = 124
+
+[INFO] Chosen move: D
+
+   2           2       
+   4                   
+   8                   
+  32     8     8       
+Score = 132
+
+[INFO] Chosen move: L
+
+   4           2       
+   4                   
+   8                   
+  32    16             
+Score = 152
+
+[INFO] Chosen move: D
+
+                       
+   8                   
+   8           2       
+  32    16     2       
+Score = 160
+
+[INFO] Chosen move: U
+
+  16    16     4       
+  32                   
+                       
+   2                   
+Score = 180
+
+[INFO] Chosen move: L
+
+  32     4             
+  32                   
+                       
+   2                 2 
+Score = 212
+
+[INFO] Chosen move: L
+
+  32     4             
+  32                   
+   2                   
+   4                   
+Score = 216
+
+[INFO] Chosen move: U
+
+  64     4             
+   2                   
+   4                   
+   2                   
+Score = 280
+
+[INFO] Chosen move: D
+
+  64                   
+   2                   
+   4                   
+   2     4     2       
+Score = 280
+
+[INFO] Chosen move: U
+
+  64     4     2     2 
+   2                   
+   4                   
+   2                   
+Score = 280
+
+[INFO] Chosen move: L
+
+  64     4     4       
+   2                 2 
+   4                   
+   2                   
+Score = 284
+
+[INFO] Chosen move: L
+
+  64     8     2       
+   4                   
+   4                   
+   2                   
+Score = 296
+
+[INFO] Chosen move: U
+
+  64     8     2       
+   8           4       
+   2                   
+                       
+Score = 304
+
+[INFO] Chosen move: L
+
+  64     8     2       
+   8     4             
+   2                   
+                     4 
+Score = 304
+
+[INFO] Chosen move: L
+
+  64     8     2       
+   8     4             
+   2                   
+   4                 2 
+Score = 304
+
+[INFO] Chosen move: U
+
+  64     8     2     2 
+   8     4           2 
+   2                   
+   4                   
+Score = 304
+
+[INFO] Chosen move: L
+
+  64     8     4       
+   8     4     2       
+   2                   
+   4     2             
+Score = 308
+
+[INFO] Chosen move: D
+
+  64     2             
+   8     8             
+   2     4     4       
+   4     2     2       
+Score = 308
+
+[INFO] Chosen move: L
+
+  64     2             
+  16                   
+   2     8           2 
+   4     4             
+Score = 336
+
+[INFO] Chosen move: L
+
+  64     2             
+  16                   
+   2     8     2       
+   8                 2 
+Score = 344
+
+[INFO] Chosen move: D
+
+  64           2       
+  16                   
+   2     2             
+   8     8     2     2 
+Score = 344
+
+[INFO] Chosen move: L
+
+  64     2             
+  16                   
+   4                   
+  16     4     2       
+Score = 368
+
+[INFO] Chosen move: U
+
+  64     2     2       
+  16     4             
+   4     2             
+  16                   
+Score = 368
+
+[INFO] Chosen move: D
+
+  64           2       
+  16     2             
+   4     4             
+  16     2     2       
+Score = 368
+
+[INFO] Chosen move: L
+
+  64     2             
+  16     2             
+   8                   
+  16     4     2       
+Score = 380
+
+[INFO] Chosen move: D
+
+  64                   
+  16                   
+   8     4     2       
+  16     4     2       
+Score = 384
+
+[INFO] Chosen move: U
+
+  64     8     4       
+  16                 2 
+   8                   
+  16                   
+Score = 396
+
+[INFO] Chosen move: L
+
+  64     8     4       
+  16     2           4 
+   8                   
+  16                   
+Score = 396
+
+[INFO] Chosen move: D
+
+  64                   
+  16     4             
+   8     8             
+  16     2     4     4 
+Score = 396
+
+[INFO] Chosen move: L
+
+  64                   
+  16     4             
+  16                 2 
+  16     2     8       
+Score = 420
+
+[INFO] Chosen move: L
+
+  64                 2 
+  16     4             
+  16     2             
+  16     2     8       
+Score = 420
+
+[INFO] Chosen move: U
+
+  64     4     8     2 
+  32     4             
+  16                   
+                     2 
+Score = 456
+
+[INFO] Chosen move: U
+
+  64     8     8     4 
+  32                   
+  16                   
+   2                   
+Score = 468
+
+[INFO] Chosen move: L
+
+  64    16     4       
+  32                   
+  16                   
+   2     2             
+Score = 484
+
+[INFO] Chosen move: D
+
+  64                   
+  32           2       
+  16    16             
+   2     2     4       
+Score = 484
+
+[INFO] Chosen move: L
+
+  64                   
+  32     2             
+  32     4             
+   4     4             
+Score = 520
+
+[INFO] Chosen move: U
+
+  64     2           4 
+  64     8             
+   4                   
+                       
+Score = 592
+
+[INFO] Chosen move: U
+
+ 128     2           4 
+   4     8             
+         4             
+                       
+Score = 720
+
+[INFO] Chosen move: L
+
+ 128     2     4       
+   4     8             
+   4                 2 
+                       
+Score = 720
+
+[INFO] Chosen move: U
+
+ 128     2     4     2 
+   8     8             
+   2                   
+                       
+Score = 728
+
+[INFO] Chosen move: L
+
+ 128     2     4     2 
+  16     2             
+   2                   
+                       
+Score = 744
+
+[INFO] Chosen move: U
+
+ 128     4     4     2 
+  16           4       
+   2                   
+                       
+Score = 748
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+  16     4             
+   2                   
+                     2 
+Score = 756
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+  16     4             
+   2                   
+   2           2       
+Score = 756
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+  16     4             
+   2                   
+   4     4             
+Score = 760
+
+[INFO] Chosen move: U
+
+ 128     8     2       
+  16     8             
+   2                   
+   4     2             
+Score = 768
+
+[INFO] Chosen move: U
+
+ 128    16     2       
+  16     2             
+   2           2       
+   4                   
+Score = 784
+
+[INFO] Chosen move: L
+
+ 128    16     2       
+  16     2     2       
+   4                   
+   4                   
+Score = 788
+
+[INFO] Chosen move: L
+
+ 128    16     2     2 
+  16     4             
+   4                   
+   4                   
+Score = 792
+
+[INFO] Chosen move: U
+
+ 128    16     2     2 
+  16     4             
+   8     2             
+                       
+Score = 800
+
+[INFO] Chosen move: L
+
+ 128    16     4       
+  16     4             
+   8     2     2       
+                       
+Score = 804
+
+[INFO] Chosen move: L
+
+ 128    16     4       
+  16     4             
+   8     4             
+               2       
+Score = 808
+
+[INFO] Chosen move: L
+
+ 128    16     4       
+  16     4             
+   8     4             
+   2                 4 
+Score = 808
+
+[INFO] Chosen move: U
+
+ 128    16     4     4 
+  16     8     2       
+   8                   
+   2                   
+Score = 816
+
+[INFO] Chosen move: L
+
+ 128    16     8       
+  16     8     2       
+   8           2       
+   2                   
+Score = 824
+
+[INFO] Chosen move: U
+
+ 128    16     8       
+  16     8     4       
+   8           2       
+   2                   
+Score = 828
+
+[INFO] Chosen move: R
+
+       128    16     8 
+        16     8     4 
+   4           8     2 
+                     2 
+Score = 828
+
+[INFO] Chosen move: L
+
+ 128    16     8       
+  16     8     4     2 
+   4     8     2       
+   2                   
+Score = 828
+
+[INFO] Chosen move: U
+
+ 128    16     8     2 
+  16    16     4       
+   4     2     2       
+   2                   
+Score = 844
+
+[INFO] Chosen move: L
+
+ 128    16     8     2 
+  32     4     2       
+   4     4             
+   2                   
+Score = 880
+
+[INFO] Chosen move: U
+
+ 128    16     8     2 
+  32     8     2       
+   4                   
+   2                 2 
+Score = 888
+
+[INFO] Chosen move: L
+
+ 128    16     8     2 
+  32     8     2     2 
+   4                   
+   4                   
+Score = 892
+
+[INFO] Chosen move: L
+
+ 128    16     8     2 
+  32     8     4       
+   4     2             
+   4                   
+Score = 896
+
+[INFO] Chosen move: U
+
+ 128    16     8     2 
+  32     8     4     2 
+   8     2             
+                       
+Score = 904
+
+[INFO] Chosen move: D
+
+         2             
+ 128    16             
+  32     8     8       
+   8     2     4     4 
+Score = 908
+
+[INFO] Chosen move: U
+
+ 128     2     8     4 
+  32    16     4       
+   8     8             
+         2     2       
+Score = 908
+
+[INFO] Chosen move: R
+
+ 128     2     8     4 
+        32    16     4 
+               2    16 
+                     4 
+Score = 928
+
+[INFO] Chosen move: U
+
+ 128     2     8     8 
+        32    16    16 
+               2     4 
+   2                   
+Score = 936
+
+[INFO] Chosen move: L
+
+ 128     2    16     2 
+  32    32             
+   2     4             
+   2                   
+Score = 984
+
+[INFO] Chosen move: U
+
+ 128     2    16     2 
+  32    32             
+   4     4             
+         2             
+Score = 988
+
+[INFO] Chosen move: L
+
+ 128     2    16     2 
+  64                   
+   8     2             
+   2                   
+Score = 1060
+
+[INFO] Chosen move: U
+
+ 128     4    16     2 
+  64                   
+   8           4       
+   2                   
+Score = 1064
+
+[INFO] Chosen move: L
+
+ 128     4    16     2 
+  64                 2 
+   8     4             
+   2                   
+Score = 1064
+
+[INFO] Chosen move: U
+
+ 128     8    16     4 
+  64           2       
+   8                   
+   2                   
+Score = 1076
+
+[INFO] Chosen move: L
+
+ 128     8    16     4 
+  64     2           2 
+   8                   
+   2                   
+Score = 1076
+
+[INFO] Chosen move: D
+
+ 128                   
+  64     4             
+   8     8           4 
+   2     2    16     2 
+Score = 1076
+
+[INFO] Chosen move: L
+
+ 128                 2 
+  64     4             
+  16     4             
+   4    16     2       
+Score = 1096
+
+[INFO] Chosen move: D
+
+ 128                   
+  64                   
+  16     8           2 
+   4    16     2     2 
+Score = 1104
+
+[INFO] Chosen move: L
+
+ 128                   
+  64     2             
+  16     8     2       
+   4    16     4       
+Score = 1108
+
+[INFO] Chosen move: U
+
+ 128     2     2       
+  64     8     4       
+  16    16           2 
+   4                   
+Score = 1108
+
+[INFO] Chosen move: L
+
+ 128     4             
+  64     8     4       
+  32     2             
+   4     2             
+Score = 1144
+
+[INFO] Chosen move: U
+
+ 128     4     4     2 
+  64     8             
+  32     4             
+   4                   
+Score = 1148
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+  64     8             
+  32     4             
+   4                 4 
+Score = 1156
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+  64     8             
+  32     4             
+   8           2       
+Score = 1164
+
+[INFO] Chosen move: D
+
+ 128                   
+  64     2             
+  32    16             
+   8     4     4       
+Score = 1184
+
+[INFO] Chosen move: L
+
+ 128                   
+  64     2             
+  32    16             
+   8     8           2 
+Score = 1192
+
+[INFO] Chosen move: L
+
+ 128                   
+  64     2             
+  32    16             
+  16     2           2 
+Score = 1208
+
+[INFO] Chosen move: L
+
+ 128     4             
+  64     2             
+  32    16             
+  16     4             
+Score = 1212
+
+[INFO] Chosen move: R
+
+             128     4 
+              64     2 
+              32    16 
+   4          16     4 
+Score = 1212
+
+[INFO] Chosen move: L
+
+ 128     4             
+  64     2           2 
+  32    16             
+   4    16     4       
+Score = 1212
+
+[INFO] Chosen move: U
+
+ 128     4     4     2 
+  64     2             
+  32    32             
+   4                 4 
+Score = 1244
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+  64     2     4       
+  64                   
+   8                   
+Score = 1324
+
+[INFO] Chosen move: U
+
+ 128     8     2       
+ 128     2     4       
+   8           2       
+                       
+Score = 1452
+
+[INFO] Chosen move: L
+
+ 128     8     2       
+ 128     2     4       
+   8     2     2       
+                       
+Score = 1452
+
+[INFO] Chosen move: U
+
+ 256     8     2       
+   8     4     4       
+               2     2 
+                       
+Score = 1712
+
+[INFO] Chosen move: L
+
+ 256     8     2       
+   8     8             
+   4                   
+                     4 
+Score = 1724
+
+[INFO] Chosen move: L
+
+ 256     8     2     2 
+  16                   
+   4                   
+   4                   
+Score = 1740
+
+[INFO] Chosen move: U
+
+ 256     8     2     2 
+  16                   
+   8           2       
+                       
+Score = 1748
+
+[INFO] Chosen move: L
+
+ 256     8     4       
+  16                   
+   8     2     2       
+                       
+Score = 1752
+
+[INFO] Chosen move: U
+
+ 256     8     4     4 
+  16     2     2       
+   8                   
+                       
+Score = 1752
+
+[INFO] Chosen move: L
+
+ 256     8     8     2 
+  16     4             
+   8                   
+                       
+Score = 1764
+
+[INFO] Chosen move: L
+
+ 256    16     2       
+  16     4             
+   8           2       
+                       
+Score = 1780
+
+[INFO] Chosen move: L
+
+ 256    16     2       
+  16     4             
+   8     2             
+               2       
+Score = 1780
+
+[INFO] Chosen move: L
+
+ 256    16     2       
+  16     4           2 
+   8     2             
+   2                   
+Score = 1780
+
+[INFO] Chosen move: D
+
+ 256                   
+  16    16             
+   8     4     2       
+   2     2     2     2 
+Score = 1780
+
+[INFO] Chosen move: L
+
+ 256                   
+  32                   
+   8     4     2       
+   4     4           2 
+Score = 1820
+
+[INFO] Chosen move: L
+
+ 256                   
+  32                 4 
+   8     4     2       
+   8     2             
+Score = 1828
+
+[INFO] Chosen move: L
+
+ 256                   
+  32     4             
+   8     4     2       
+   8     2           4 
+Score = 1828
+
+[INFO] Chosen move: U
+
+ 256     8     2     4 
+  32     2             
+  16                   
+               2       
+Score = 1852
+
+[INFO] Chosen move: U
+
+ 256     8     4     4 
+  32     2             
+  16                   
+                     2 
+Score = 1856
+
+[INFO] Chosen move: L
+
+ 256     8     8       
+  32     2     2       
+  16                   
+   2                   
+Score = 1864
+
+[INFO] Chosen move: L
+
+ 256    16             
+  32     4           2 
+  16                   
+   2                   
+Score = 1884
+
+[INFO] Chosen move: D
+
+ 256     2             
+  32                   
+  16    16             
+   2     4           2 
+Score = 1884
+
+[INFO] Chosen move: L
+
+ 256     2     2       
+  32                   
+  32                   
+   2     4     2       
+Score = 1916
+
+[INFO] Chosen move: L
+
+ 256     4             
+  32     2             
+  32                   
+   2     4     2       
+Score = 1920
+
+[INFO] Chosen move: U
+
+ 256     4     2       
+  64     2           2 
+   2     4             
+                       
+Score = 1984
+
+[INFO] Chosen move: L
+
+ 256     4     2       
+  64     4             
+   2     4             
+         4             
+Score = 1988
+
+[INFO] Chosen move: U
+
+ 256     8     2       
+  64     8             
+   2     2             
+                       
+Score = 2004
+
+[INFO] Chosen move: L
+
+ 256     8     2       
+  64     8             
+   4                   
+         2             
+Score = 2008
+
+[INFO] Chosen move: L
+
+ 256     8     2       
+  64     8             
+   4                   
+   2           4       
+Score = 2008
+
+[INFO] Chosen move: U
+
+ 256    16     2       
+  64           4       
+   4     4             
+   2                   
+Score = 2024
+
+[INFO] Chosen move: L
+
+ 256    16     2       
+  64     4           2 
+   8                   
+   2                   
+Score = 2032
+
+[INFO] Chosen move: U
+
+ 256    16     2     2 
+  64     4           2 
+   8                   
+   2                   
+Score = 2032
+
+[INFO] Chosen move: L
+
+ 256    16     4       
+  64     4     2       
+   8                   
+   2                 4 
+Score = 2036
+
+[INFO] Chosen move: U
+
+ 256    16     4     4 
+  64     4     2       
+   8                   
+   2           2       
+Score = 2036
+
+[INFO] Chosen move: U
+
+ 256    16     4     4 
+  64     4     4       
+   8                   
+   2     2             
+Score = 2040
+
+[INFO] Chosen move: L
+
+ 256    16     8       
+  64     8             
+   8                   
+   4                 2 
+Score = 2060
+
+[INFO] Chosen move: D
+
+ 256                   
+  64           2       
+   8    16             
+   4     8     8     2 
+Score = 2060
+
+[INFO] Chosen move: U
+
+ 256    16     2     2 
+  64     8     8       
+   8                   
+   4                 2 
+Score = 2060
+
+[INFO] Chosen move: L
+
+ 256    16     4       
+  64    16           2 
+   8                   
+   4     2             
+Score = 2080
+
+[INFO] Chosen move: U
+
+ 256    32     4     2 
+  64     2             
+   8           2       
+   4                   
+Score = 2112
+
+[INFO] Chosen move: L
+
+ 256    32     4     2 
+  64     2             
+   8     2             
+   4           2       
+Score = 2112
+
+[INFO] Chosen move: U
+
+ 256    32     4     2 
+  64     4     2       
+   8                   
+   4     4             
+Score = 2116
+
+[INFO] Chosen move: L
+
+ 256    32     4     2 
+  64     4     2       
+   8     2             
+   8                   
+Score = 2124
+
+[INFO] Chosen move: U
+
+ 256    32     4     2 
+  64     4     2       
+  16     2     2       
+                       
+Score = 2140
+
+[INFO] Chosen move: L
+
+ 256    32     4     2 
+  64     4     2       
+  16     4             
+               4       
+Score = 2144
+
+[INFO] Chosen move: L
+
+ 256    32     4     2 
+  64     4     2       
+  16     4     2       
+   4                   
+Score = 2144
+
+[INFO] Chosen move: U
+
+ 256    32     4     2 
+  64     8     4       
+  16     2             
+   4                   
+Score = 2156
+
+[INFO] Chosen move: U
+
+ 256    32     8     2 
+  64     8     2       
+  16     2             
+   4                   
+Score = 2164
+
+[INFO] Chosen move: D
+
+ 256                   
+  64    32     4       
+  16     8     8       
+   4     2     2     2 
+Score = 2164
+
+[INFO] Chosen move: U
+
+ 256    32     4     2 
+  64     8     8       
+  16     2     2       
+   4     2             
+Score = 2164
+
+[INFO] Chosen move: L
+
+ 256    32     4     2 
+  64    16             
+  16     4     4       
+   4     2             
+Score = 2184
+
+[INFO] Chosen move: L
+
+ 256    32     4     2 
+  64    16           2 
+  16     8             
+   4     2             
+Score = 2192
+
+[INFO] Chosen move: U
+
+ 256    32     4     4 
+  64    16           4 
+  16     8             
+   4     2             
+Score = 2196
+
+[INFO] Chosen move: L
+
+ 256    32     8       
+  64    16     4       
+  16     8           2 
+   4     2             
+Score = 2204
+
+[INFO] Chosen move: D
+
+ 256    32             
+  64    16             
+  16     8     8     2 
+   4     2     4     2 
+Score = 2204
+
+[INFO] Chosen move: D
+
+ 256    32             
+  64    16     2       
+  16     8     8       
+   4     2     4     4 
+Score = 2208
+
+[INFO] Chosen move: L
+
+ 256    32             
+  64    16     2       
+  16    16     2       
+   4     2     8       
+Score = 2232
+
+[INFO] Chosen move: U
+
+ 256    32     4       
+  64    32     8     2 
+  16     2             
+   4                   
+Score = 2268
+
+[INFO] Chosen move: U
+
+ 256    64     4     2 
+  64     2     8       
+  16                 2 
+   4                   
+Score = 2332
+
+[INFO] Chosen move: U
+
+ 256    64     4     4 
+  64     2     8       
+  16                 4 
+   4                   
+Score = 2336
+
+[INFO] Chosen move: D
+
+ 256                   
+  64     4             
+  16    64     4       
+   4     2     8     8 
+Score = 2344
+
+[INFO] Chosen move: U
+
+ 256     4     4     8 
+  64    64     8       
+  16     2             
+   4                 2 
+Score = 2344
+
+[INFO] Chosen move: L
+
+ 256     8     8       
+ 128     8           2 
+  16     2             
+   4     2             
+Score = 2480
+
+[INFO] Chosen move: D
+
+ 256           2       
+ 128                   
+  16    16             
+   4     4     8     2 
+Score = 2500
+
+[INFO] Chosen move: L
+
+ 256     2             
+ 128                   
+  32                   
+   8     8     2     4 
+Score = 2540
+
+[INFO] Chosen move: L
+
+ 256     2             
+ 128           4       
+  32                   
+  16     2     4       
+Score = 2556
+
+[INFO] Chosen move: U
+
+ 256     4     8       
+ 128                   
+  32                   
+  16                 2 
+Score = 2568
+
+[INFO] Chosen move: L
+
+ 256     4     8       
+ 128                   
+  32           2       
+  16     2             
+Score = 2568
+
+[INFO] Chosen move: L
+
+ 256     4     8       
+ 128                   
+  32     2           4 
+  16     2             
+Score = 2568
+
+[INFO] Chosen move: U
+
+ 256     4     8     4 
+ 128     4             
+  32     2             
+  16                   
+Score = 2572
+
+[INFO] Chosen move: U
+
+ 256     8     8     4 
+ 128     2             
+  32                 2 
+  16                   
+Score = 2580
+
+[INFO] Chosen move: L
+
+ 256    16     4       
+ 128     2             
+  32     2             
+  16           4       
+Score = 2596
+
+[INFO] Chosen move: U
+
+ 256    16     8       
+ 128     4             
+  32                 2 
+  16                   
+Score = 2608
+
+[INFO] Chosen move: L
+
+ 256    16     8       
+ 128     4             
+  32     2     4       
+  16                   
+Score = 2608
+
+[INFO] Chosen move: U
+
+ 256    16     8       
+ 128     4     4       
+  32     2             
+  16     2             
+Score = 2608
+
+[INFO] Chosen move: U
+
+ 256    16     8       
+ 128     4     4       
+  32     4     4       
+  16                   
+Score = 2612
+
+[INFO] Chosen move: L
+
+ 256    16     8       
+ 128     8             
+  32     8             
+  16     2             
+Score = 2628
+
+[INFO] Chosen move: U
+
+ 256    16     8       
+ 128    16             
+  32     2     4       
+  16                   
+Score = 2644
+
+[INFO] Chosen move: D
+
+ 256                   
+ 128           2       
+  32    32     8       
+  16     2     4       
+Score = 2676
+
+[INFO] Chosen move: L
+
+ 256           2       
+ 128     2             
+  64     8             
+  16     2     4       
+Score = 2740
+
+[INFO] Chosen move: L
+
+ 256     2           4 
+ 128     2             
+  64     8             
+  16     2     4       
+Score = 2740
+
+[INFO] Chosen move: U
+
+ 256     4     4     4 
+ 128     8             
+  64     2     2       
+  16                   
+Score = 2744
+
+[INFO] Chosen move: L
+
+ 256     8     4       
+ 128     8           2 
+  64     4             
+  16                   
+Score = 2756
+
+[INFO] Chosen move: D
+
+ 256                   
+ 128                   
+  64    16     2       
+  16     4     4     2 
+Score = 2772
+
+[INFO] Chosen move: L
+
+ 256                   
+ 128           2       
+  64    16     2       
+  16     8     2       
+Score = 2780
+
+[INFO] Chosen move: U
+
+ 256    16     4       
+ 128     8     2       
+  64     2             
+  16                   
+Score = 2784
+
+[INFO] Chosen move: D
+
+ 256                   
+ 128    16             
+  64     8     4     2 
+  16     2     2       
+Score = 2784
+
+[INFO] Chosen move: L
+
+ 256                   
+ 128    16             
+  64     8     4     2 
+  16     4           2 
+Score = 2788
+
+[INFO] Chosen move: D
+
+ 256                   
+ 128    16           2 
+  64     8             
+  16     4     4     4 
+Score = 2792
+
+[INFO] Chosen move: L
+
+ 256                   
+ 128    16     2       
+  64     8     2       
+  16     8     4       
+Score = 2800
+
+[INFO] Chosen move: U
+
+ 256    16     4       
+ 128    16     4       
+  64           2       
+  16                   
+Score = 2820
+
+[INFO] Chosen move: U
+
+ 256    32     8       
+ 128           2       
+  64           2       
+  16                   
+Score = 2860
+
+[INFO] Chosen move: L
+
+ 256    32     8       
+ 128     2             
+  64     2             
+  16     2             
+Score = 2860
+
+[INFO] Chosen move: U
+
+ 256    32     8       
+ 128     4     2       
+  64     2             
+  16                   
+Score = 2864
+
+[INFO] Chosen move: D
+
+ 256     4             
+ 128    32             
+  64     4     8       
+  16     2     2       
+Score = 2864
+
+[INFO] Chosen move: L
+
+ 256     4             
+ 128    32             
+  64     4     8     2 
+  16     4             
+Score = 2868
+
+[INFO] Chosen move: D
+
+ 256                   
+ 128     4             
+  64    32     4       
+  16     8     8     2 
+Score = 2876
+
+[INFO] Chosen move: L
+
+ 256                 2 
+ 128     4             
+  64    32     4       
+  16    16     2       
+Score = 2892
+
+[INFO] Chosen move: U
+
+ 256     4     4     2 
+ 128    32     2       
+  64    16             
+  16     2             
+Score = 2892
+
+[INFO] Chosen move: L
+
+ 256     8     2       
+ 128    32     2       
+  64    16             
+  16     2     4       
+Score = 2900
+
+[INFO] Chosen move: U
+
+ 256     8     4       
+ 128    32     4       
+  64    16           2 
+  16     2             
+Score = 2904
+
+[INFO] Chosen move: U
+
+ 256     8     8     2 
+ 128    32           2 
+  64    16             
+  16     2             
+Score = 2912
+
+[INFO] Chosen move: U
+
+ 256     8     8     4 
+ 128    32             
+  64    16             
+  16     2     2       
+Score = 2916
+
+[INFO] Chosen move: L
+
+ 256    16     4       
+ 128    32     4       
+  64    16             
+  16     4             
+Score = 2936
+
+[INFO] Chosen move: U
+
+ 256    16     8       
+ 128    32             
+  64    16             
+  16     4           2 
+Score = 2944
+
+[INFO] Chosen move: U
+
+ 256    16     8     2 
+ 128    32             
+  64    16             
+  16     4           2 
+Score = 2944
+
+[INFO] Chosen move: L
+
+ 256    16     8     2 
+ 128    32             
+  64    16             
+  16     4     2     2 
+Score = 2944
+
+[INFO] Chosen move: L
+
+ 256    16     8     2 
+ 128    32           2 
+  64    16             
+  16     4     4       
+Score = 2948
+
+[INFO] Chosen move: D
+
+ 256    16             
+ 128    32           2 
+  64    16     8       
+  16     4     4     4 
+Score = 2952
+
+[INFO] Chosen move: U
+
+ 256    16     8     2 
+ 128    32     4     4 
+  64    16     4       
+  16     4             
+Score = 2952
+
+[INFO] Chosen move: L
+
+ 256    16     8     2 
+ 128    32     8     2 
+  64    16     4       
+  16     4             
+Score = 2960
+
+[INFO] Chosen move: U
+
+ 256    16    16     4 
+ 128    32     4     4 
+  64    16             
+  16     4             
+Score = 2980
+
+[INFO] Chosen move: D
+
+ 256    16             
+ 128    32     4       
+  64    16    16       
+  16     4     4     8 
+Score = 2988
+
+[INFO] Chosen move: L
+
+ 256    16             
+ 128    32     4       
+  64    32             
+  16     8     8     2 
+Score = 3028
+
+[INFO] Chosen move: D
+
+ 256                   
+ 128    16             
+  64    64     4     2 
+  16     8     8     2 
+Score = 3092
+
+[INFO] Chosen move: L
+
+ 256           4       
+ 128    16             
+ 128     4     2       
+  16    16     2       
+Score = 3236
+
+[INFO] Chosen move: U
+
+ 256    16     4       
+ 256     4     4       
+  16    16             
+         2             
+Score = 3496
+
+[INFO] Chosen move: L
+
+ 256    16     4       
+ 256     8             
+  32                   
+   2           4       
+Score = 3536
+
+[INFO] Chosen move: U
+
+ 512    16     8       
+  32     8             
+   2                   
+               2       
+Score = 4056
+
+[INFO] Chosen move: L
+
+ 512    16     8       
+  32     8             
+   2     2             
+   2                   
+Score = 4056
+
+[INFO] Chosen move: L
+
+ 512    16     8       
+  32     8             
+   4                   
+   2           4       
+Score = 4060
+
+[INFO] Chosen move: U
+
+ 512    16     8       
+  32     8     4       
+   4                   
+   2                 4 
+Score = 4060
+
+[INFO] Chosen move: D
+
+ 512                   
+  32           4       
+   4    16     8       
+   2     8     4     4 
+Score = 4060
+
+[INFO] Chosen move: L
+
+ 512           4       
+  32     4             
+   4    16     8       
+   2     8     8       
+Score = 4068
+
+[INFO] Chosen move: U
+
+ 512     4     4       
+  32    16    16       
+   4     8             
+   2           2       
+Score = 4084
+
+[INFO] Chosen move: L
+
+ 512     8             
+  32    32     2       
+   4     8             
+   4                   
+Score = 4128
+
+[INFO] Chosen move: U
+
+ 512     8     2       
+  32    32     4       
+   8     8             
+                       
+Score = 4136
+
+[INFO] Chosen move: L
+
+ 512     8     2       
+  64     4     2       
+  16                   
+                       
+Score = 4216
+
+[INFO] Chosen move: D
+
+               2       
+ 512                   
+  64     8             
+  16     4     4       
+Score = 4220
+
+[INFO] Chosen move: L
+
+   2     2             
+ 512                   
+  64     8             
+  16     8             
+Score = 4228
+
+[INFO] Chosen move: D
+
+   2                   
+ 512                 2 
+  64     2             
+  16    16             
+Score = 4244
+
+[INFO] Chosen move: L
+
+   2                   
+ 512     2             
+  64     2     2       
+  32                   
+Score = 4276
+
+[INFO] Chosen move: D
+
+   2           2       
+ 512                   
+  64                   
+  32     4     2       
+Score = 4280
+
+[INFO] Chosen move: D
+
+   2                   
+ 512                   
+  64     4             
+  32     4     4       
+Score = 4284
+
+[INFO] Chosen move: L
+
+   2                   
+ 512                   
+  64     4             
+  32     8           2 
+Score = 4292
+
+[INFO] Chosen move: L
+
+   2           4       
+ 512                   
+  64     4             
+  32     8     2       
+Score = 4292
+
+[INFO] Chosen move: D
+
+   2                   
+ 512     2             
+  64     4     4       
+  32     8     2       
+Score = 4292
+
+[INFO] Chosen move: L
+
+   2           2       
+ 512     2             
+  64     8             
+  32     8     2       
+Score = 4300
+
+[INFO] Chosen move: L
+
+   4                   
+ 512     2     2       
+  64     8             
+  32     8     2       
+Score = 4304
+
+[INFO] Chosen move: L
+
+   4           2       
+ 512     4             
+  64     8             
+  32     8     2       
+Score = 4308
+
+[INFO] Chosen move: U
+
+   4     4     4       
+ 512    16             
+  64           2       
+  32                   
+Score = 4328
+
+[INFO] Chosen move: L
+
+   8     4             
+ 512    16             
+  64     2             
+  32                 2 
+Score = 4336
+
+[INFO] Chosen move: L
+
+   8     4             
+ 512    16     2       
+  64     2             
+  32     2             
+Score = 4336
+
+[INFO] Chosen move: D
+
+   8           2       
+ 512     4             
+  64    16             
+  32     4     2       
+Score = 4340
+
+[INFO] Chosen move: U
+
+   8     4     4       
+ 512    16             
+  64     4     4       
+  32                   
+Score = 4344
+
+[INFO] Chosen move: L
+
+   8     8             
+ 512    16           4 
+  64     8             
+  32                   
+Score = 4360
+
+[INFO] Chosen move: L
+
+  16                   
+ 512    16     4       
+  64     8             
+  32           2       
+Score = 4376
+
+[INFO] Chosen move: U
+
+  16    16     4     2 
+ 512     8     2       
+  64                   
+  32                   
+Score = 4376
+
+[INFO] Chosen move: L
+
+  32     4     2       
+ 512     8     2       
+  64                 2 
+  32                   
+Score = 4408
+
+[INFO] Chosen move: U
+
+  32     4     4     2 
+ 512     8     2       
+  64                   
+  32                   
+Score = 4412
+
+[INFO] Chosen move: L
+
+  32     8     2       
+ 512     8     2       
+  64           4       
+  32                   
+Score = 4420
+
+[INFO] Chosen move: D
+
+  32                   
+ 512                   
+  64           4       
+  32    16     4     4 
+Score = 4440
+
+[INFO] Chosen move: L
+
+  32                   
+ 512           2       
+  64     4             
+  32    16     8       
+Score = 4448
+
+[INFO] Chosen move: U
+
+  32     4     2       
+ 512    16     8       
+  64                   
+  32     2             
+Score = 4448
+
+[INFO] Chosen move: U
+
+  32     4     2     2 
+ 512    16     8       
+  64     2             
+  32                   
+Score = 4448
+
+[INFO] Chosen move: L
+
+  32     4     4       
+ 512    16     8       
+  64     2             
+  32     2             
+Score = 4452
+
+[INFO] Chosen move: R
+
+              32     8 
+       512    16     8 
+              64     2 
+         4    32     2 
+Score = 4460
+
+[INFO] Chosen move: U
+
+       512    32    16 
+   2     4    16     4 
+              64       
+              32       
+Score = 4480
+
+[INFO] Chosen move: L
+
+ 512    32    16       
+   2     4    16     4 
+  64                   
+  32           2       
+Score = 4480
+
+[INFO] Chosen move: U
+
+ 512    32    32     4 
+   2     4     2       
+  64                   
+  32                 2 
+Score = 4512
+
+[INFO] Chosen move: U
+
+ 512    32    32     4 
+   2     4     2     2 
+  64     2             
+  32                   
+Score = 4512
+
+[INFO] Chosen move: L
+
+ 512    64     4     2 
+   2     4     4       
+  64     2             
+  32                   
+Score = 4580
+
+[INFO] Chosen move: U
+
+ 512    64     8     2 
+   2     4             
+  64     2             
+  32                 2 
+Score = 4588
+
+[INFO] Chosen move: U
+
+ 512    64     8     4 
+   2     4             
+  64     2             
+  32                 2 
+Score = 4592
+
+[INFO] Chosen move: R
+
+ 512    64     8     4 
+               2     4 
+              64     2 
+   4          32     2 
+Score = 4592
+
+[INFO] Chosen move: U
+
+ 512    64     8     8 
+   4           2     4 
+         2    64       
+              32       
+Score = 4604
+
+[INFO] Chosen move: L
+
+ 512    64    16       
+   4     2     4       
+   2    64             
+  32           2       
+Score = 4620
+
+[INFO] Chosen move: D
+
+ 512                   
+   4    64    16       
+   2     2     4       
+  32    64     2     2 
+Score = 4620
+
+[INFO] Chosen move: L
+
+ 512                 4 
+   4    64    16       
+   4     4             
+  32    64     4       
+Score = 4628
+
+[INFO] Chosen move: U
+
+ 512    64    16     4 
+   8     4     4       
+  32    64             
+               2       
+Score = 4636
+
+[INFO] Chosen move: L
+
+ 512    64    16     4 
+   8     8             
+  32    64           2 
+   2                   
+Score = 4644
+
+[INFO] Chosen move: R
+
+ 512    64    16     4 
+                    16 
+        32    64     2 
+   4                 2 
+Score = 4660
+
+[INFO] Chosen move: U
+
+ 512    64    16     4 
+   4    32    64    16 
+                     4 
+                     2 
+Score = 4664
+
+[INFO] Chosen move: L
+
+ 512    64    16     4 
+   4    32    64    16 
+   4                 2 
+   2                   
+Score = 4664
+
+[INFO] Chosen move: U
+
+ 512    64    16     4 
+   8    32    64    16 
+   2                 2 
+   2                   
+Score = 4672
+
+[INFO] Chosen move: L
+
+ 512    64    16     4 
+   8    32    64    16 
+   4                   
+   2                 2 
+Score = 4676
+
+[INFO] Chosen move: L
+
+ 512    64    16     4 
+   8    32    64    16 
+   4           2       
+   4                   
+Score = 4680
+
+[INFO] Chosen move: U
+
+ 512    64    16     4 
+   8    32    64    16 
+   8     2     2       
+                       
+Score = 4688
+
+[INFO] Chosen move: L
+
+ 512    64    16     4 
+   8    32    64    16 
+   8     4             
+   2                   
+Score = 4692
+
+[INFO] Chosen move: U
+
+ 512    64    16     4 
+  16    32    64    16 
+   2     4             
+               4       
+Score = 4708
+
+[INFO] Chosen move: R
+
+ 512    64    16     4 
+  16    32    64    16 
+   4           2     4 
+                     4 
+Score = 4708
+
+[INFO] Chosen move: U
+
+ 512    64    16     4 
+  16    32    64    16 
+   4     4     2     8 
+                       
+Score = 4716
+
+[INFO] Chosen move: L
+
+ 512    64    16     4 
+  16    32    64    16 
+   8     2     8       
+   2                   
+Score = 4724
+
+[INFO] Chosen move: D
+
+ 512                   
+  16    64    16     2 
+   8    32    64     4 
+   2     2     8    16 
+Score = 4724
+
+[INFO] Chosen move: L
+
+ 512                   
+  16    64    16     2 
+   8    32    64     4 
+   4     8    16     2 
+Score = 4728
+
+[INFO] Chosen move: U
+
+ 512    64    16     2 
+  16    32    64     4 
+   8     8    16     2 
+   4                 2 
+Score = 4728
+
+[INFO] Chosen move: L
+
+ 512    64    16     2 
+  16    32    64     4 
+  16    16     2       
+   4     2           2 
+Score = 4744
+
+[INFO] Chosen move: U
+
+ 512    64    16     2 
+  32    32    64     4 
+   4    16     2     2 
+         2     2       
+Score = 4776
+
+[INFO] Chosen move: L
+
+ 512    64    16     2 
+  64    64     4     2 
+   4    16     4       
+   4                   
+Score = 4848
+
+[INFO] Chosen move: U
+
+ 512   128    16     4 
+  64    16     8       
+   8                 2 
+                       
+Score = 4996
+
+[INFO] Chosen move: U
+
+ 512   128    16     4 
+  64    16     8     2 
+   8                   
+                     4 
+Score = 4996
+
+[INFO] Chosen move: L
+
+ 512   128    16     4 
+  64    16     8     2 
+   8           2       
+   4                   
+Score = 4996
+
+[INFO] Chosen move: R
+
+ 512   128    16     4 
+  64    16     8     2 
+               8     2 
+   4                 4 
+Score = 4996
+
+[INFO] Chosen move: U
+
+ 512   128    16     4 
+  64    16    16     4 
+   4                 4 
+   2                   
+Score = 5016
+
+[INFO] Chosen move: R
+
+ 512   128    16     4 
+   4    64    32     4 
+                     8 
+                     2 
+Score = 5056
+
+[INFO] Chosen move: U
+
+ 512   128    16     8 
+   4    64    32     8 
+                     2 
+               4       
+Score = 5064
+
+[INFO] Chosen move: U
+
+ 512   128    16    16 
+   4    64    32     2 
+   2           4       
+                       
+Score = 5080
+
+[INFO] Chosen move: L
+
+ 512   128    32     2 
+   4    64    32     2 
+   2     4             
+                       
+Score = 5112
+
+[INFO] Chosen move: R
+
+ 512   128    32     2 
+   4    64    32     2 
+               2     4 
+   2                   
+Score = 5112
+
+[INFO] Chosen move: L
+
+ 512   128    32     2 
+   4    64    32     2 
+   2     4             
+   2                 2 
+Score = 5112
+
+[INFO] Chosen move: U
+
+ 512   128    64     4 
+   4    64           2 
+   4     4     2       
+                       
+Score = 5184
+
+[INFO] Chosen move: R
+
+ 512   128    64     4 
+   2     4    64     2 
+               8     2 
+                       
+Score = 5192
+
+[INFO] Chosen move: U
+
+ 512   128   128     4 
+   2     4     8     4 
+                       
+               4       
+Score = 5324
+
+[INFO] Chosen move: U
+
+ 512   128   128     8 
+   2     4     8       
+         2     4       
+                       
+Score = 5332
+
+[INFO] Chosen move: L
+
+ 512   256     8     2 
+   2     4     8       
+   2     4             
+                       
+Score = 5588
+
+[INFO] Chosen move: U
+
+ 512   256    16     2 
+   4     8             
+         2             
+                       
+Score = 5616
+
+[INFO] Chosen move: L
+
+ 512   256    16     2 
+   4     8             
+   2                 2 
+                       
+Score = 5616
+
+[INFO] Chosen move: L
+
+ 512   256    16     2 
+   4     8     2       
+   4                   
+                       
+Score = 5620
+
+[INFO] Chosen move: U
+
+ 512   256    16     2 
+   8     8     2       
+                       
+               2       
+Score = 5628
+
+[INFO] Chosen move: R
+
+ 512   256    16     2 
+              16     2 
+                     2 
+                     2 
+Score = 5644
+
+[INFO] Chosen move: U
+
+ 512   256    32     4 
+                     4 
+                     2 
+                       
+Score = 5684
+
+[INFO] Chosen move: U
+
+ 512   256    32     8 
+                     2 
+         2             
+                       
+Score = 5692
+
+[INFO] Chosen move: R
+
+ 512   256    32     8 
+               2     2 
+                     2 
+                       
+Score = 5692
+
+[INFO] Chosen move: L
+
+ 512   256    32     8 
+   4                   
+   2                   
+   2                   
+Score = 5696
+
+[INFO] Chosen move: U
+
+ 512   256    32     8 
+   4                   
+   4                   
+         2             
+Score = 5700
+
+[INFO] Chosen move: R
+
+ 512   256    32     8 
+                     4 
+                     4 
+   2                 2 
+Score = 5700
+
+[INFO] Chosen move: R
+
+ 512   256    32     8 
+                     4 
+                     4 
+   4                 4 
+Score = 5704
+
+[INFO] Chosen move: R
+
+ 512   256    32     8 
+         4           4 
+                     4 
+                     8 
+Score = 5712
+
+[INFO] Chosen move: U
+
+ 512   256    32     8 
+         4           8 
+         2           8 
+                       
+Score = 5720
+
+[INFO] Chosen move: U
+
+ 512   256    32    16 
+         4           8 
+         2             
+   4                   
+Score = 5736
+
+[INFO] Chosen move: U
+
+ 512   256    32    16 
+   4     4           8 
+         2             
+                     2 
+Score = 5736
+
+[INFO] Chosen move: R
+
+ 512   256    32    16 
+               8     8 
+                     2 
+               2     2 
+Score = 5744
+
+[INFO] Chosen move: R
+
+ 512   256    32    16 
+   2                16 
+                     2 
+                     4 
+Score = 5764
+
+[INFO] Chosen move: U
+
+ 512   256    32    32 
+   2                 2 
+   2                 4 
+                       
+Score = 5796
+
+[INFO] Chosen move: U
+
+ 512   256    32    32 
+   4                 2 
+                     4 
+         2             
+Score = 5800
+
+[INFO] Chosen move: U
+
+ 512   256    32    32 
+   4     2           2 
+                     4 
+               2       
+Score = 5800
+
+[INFO] Chosen move: L
+
+ 512   256    64       
+   4     4             
+   4                   
+   2                 4 
+Score = 5868
+
+[INFO] Chosen move: U
+
+ 512   256    64     4 
+   8     4             
+   2           4       
+                       
+Score = 5876
+
+[INFO] Chosen move: U
+
+ 512   256    64     4 
+   8     4     4       
+   2           2       
+                       
+Score = 5876
+
+[INFO] Chosen move: L
+
+ 512   256    64     4 
+   8     8             
+   4                   
+               2       
+Score = 5888
+
+[INFO] Chosen move: L
+
+ 512   256    64     4 
+  16                   
+   4     2             
+   2                   
+Score = 5904
+
+[INFO] Chosen move: U
+
+ 512   256    64     4 
+  16     2             
+   4                 2 
+   2                   
+Score = 5904
+
+[INFO] Chosen move: U
+
+ 512   256    64     4 
+  16     2           2 
+   4           2       
+   2                   
+Score = 5904
+
+[INFO] Chosen move: L
+
+ 512   256    64     4 
+  16     4           2 
+   4     2             
+   2                   
+Score = 5908
+
+[INFO] Chosen move: R
+
+ 512   256    64     4 
+        16     4     2 
+   2           4     2 
+                     2 
+Score = 5908
+
+[INFO] Chosen move: U
+
+ 512   256    64     4 
+   2    16     8     4 
+               2     2 
+                       
+Score = 5920
+
+[INFO] Chosen move: R
+
+ 512   256    64     4 
+   2    16     8     4 
+         2           4 
+                       
+Score = 5924
+
+[INFO] Chosen move: U
+
+ 512   256    64     8 
+   2    16     8     4 
+         2             
+               4       
+Score = 5932
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+   2    16     8     4 
+   2                   
+   4                 2 
+Score = 5932
+
+[INFO] Chosen move: U
+
+ 512   256    64     8 
+   4    16     8     4 
+   4                 2 
+                     2 
+Score = 5936
+
+[INFO] Chosen move: U
+
+ 512   256    64     8 
+   8    16     8     4 
+               4     4 
+                       
+Score = 5948
+
+[INFO] Chosen move: U
+
+ 512   256    64     8 
+   8    16     8     8 
+               4     2 
+                       
+Score = 5956
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+   8    16    16       
+   4     2             
+         4             
+Score = 5972
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+   8    32             
+   4     2             
+   4           2       
+Score = 6004
+
+[INFO] Chosen move: U
+
+ 512   256    64     8 
+   8    32     2       
+   8     2     4       
+                       
+Score = 6012
+
+[INFO] Chosen move: U
+
+ 512   256    64     8 
+  16    32     2       
+   2     2     4       
+                       
+Score = 6028
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+  16    32     2       
+   4     4             
+         2             
+Score = 6032
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+  16    32     2       
+   8                   
+   2                 2 
+Score = 6040
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+  16    32     2     2 
+   8                   
+   4                   
+Score = 6044
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+  16    32     4     4 
+   8                   
+   4                   
+Score = 6048
+
+[INFO] Chosen move: R
+
+ 512   256    64     8 
+        16    32     8 
+   4                 8 
+                     4 
+Score = 6056
+
+[INFO] Chosen move: L
+
+ 512   256    64     8 
+  16    32     8       
+   4     8             
+   4           2       
+Score = 6056
+
+[INFO] Chosen move: R
+
+ 512   256    64     8 
+        16    32     8 
+               4     8 
+         4     4     2 
+Score = 6056
+
+[INFO] Chosen move: R
+
+ 512   256    64     8 
+        16    32     8 
+               4     8 
+         2     8     2 
+Score = 6064
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+        16    32     8 
+         2     4     2 
+   2           8       
+Score = 6080
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  16    32     8       
+   2     4     2       
+   2     8           2 
+Score = 6080
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  16    32     8     2 
+   4     4     2       
+         8           4 
+Score = 6084
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  16    32     8     2 
+   8     2     2       
+   8     4             
+Score = 6092
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  16    32     8     2 
+  16     2     2     4 
+         4             
+Score = 6108
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  16    32     8     2 
+  16     4     4       
+   4           4       
+Score = 6112
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  32    32     8     2 
+   4     4     8       
+               2       
+Score = 6152
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  64     8     2       
+   8     8             
+   2           2       
+Score = 6224
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  64     8     2       
+  16                   
+   4                 2 
+Score = 6244
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  64     8     2     2 
+  16                 2 
+   4                   
+Score = 6244
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  64     8     2     4 
+  16                   
+   4                 2 
+Score = 6248
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  64     8     2     4 
+  16           4     2 
+   4                   
+Score = 6248
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  64     8     2     4 
+  16     4     2       
+   4                 2 
+Score = 6248
+
+[INFO] Chosen move: U
+
+ 512   256    64    16 
+  64     8     4     4 
+  16     4     4     2 
+   4                   
+Score = 6252
+
+[INFO] Chosen move: L
+
+ 512   256    64    16 
+  64     8     8       
+  16     8     2       
+   4                 2 
+Score = 6268
+
+[INFO] Chosen move: R
+
+ 512   256    64    16 
+              64    16 
+        16     8     2 
+         2     4     2 
+Score = 6284
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+        16     8     4 
+   4     2     4       
+                       
+Score = 6448
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  16     8     4       
+   4     2     4       
+                     2 
+Score = 6448
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+  16     8     8     2 
+   4     2             
+                     2 
+Score = 6456
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  16    16     2       
+   4     2             
+   2           2       
+Score = 6472
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  32     2             
+   4     2             
+   4                 2 
+Score = 6508
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+  32     4           2 
+   8           2       
+                       
+Score = 6520
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+  32     4     2     2 
+   8                   
+         2             
+Score = 6520
+
+[INFO] Chosen move: R
+
+ 512   256   128    32 
+        32     4     4 
+         2           8 
+                     2 
+Score = 6524
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  32     8             
+   2     8           4 
+   2                   
+Score = 6532
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+  32    16           4 
+   4     2             
+                       
+Score = 6552
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  32    16     4     4 
+   4     2             
+                       
+Score = 6552
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  32    16     8       
+   4     2             
+                     2 
+Score = 6560
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  32    16     8       
+   4     2             
+   2     2             
+Score = 6560
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+  32    16     8       
+   4     4             
+   2           4       
+Score = 6564
+
+[INFO] Chosen move: R
+
+ 512   256   128    32 
+        32    16     8 
+               2     8 
+               2     4 
+Score = 6572
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+        32    16    16 
+               4     4 
+         2             
+Score = 6592
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  32    32           2 
+   8                   
+   2                   
+Score = 6632
+
+[INFO] Chosen move: L
+
+ 512   256   128    32 
+  64     2             
+   8                   
+   2           4       
+Score = 6696
+
+[INFO] Chosen move: U
+
+ 512   256   128    32 
+  64     2     4     2 
+   8                   
+   2                   
+Score = 6696
+
+[INFO] Chosen move: D
+
+ 512     2             
+  64                   
+   8   256   128    32 
+   2     2     4     2 
+Score = 6696
+
+[INFO] Chosen move: U
+
+ 512     2   128    32 
+  64   256     4     2 
+   8     2           2 
+   2                   
+Score = 6696
+
+[INFO] Chosen move: D
+
+ 512                   
+  64     2     4       
+   8   256   128    32 
+   2     2     4     4 
+Score = 6700
+
+[INFO] Chosen move: L
+
+ 512     4             
+  64     2     4       
+   8   256   128    32 
+   4     8             
+Score = 6712
+
+[INFO] Chosen move: D
+
+ 512     4             
+  64     2     2       
+   8   256     4       
+   4     8   128    32 
+Score = 6712
+
+[INFO] Chosen move: R
+
+         4   512     4 
+              64     4 
+         8   256     4 
+   4     8   128    32 
+Score = 6716
+
+[INFO] Chosen move: U
+
+   4     4   512     8 
+        16    64     4 
+             256    32 
+             128     4 
+Score = 6740
+
+[INFO] Chosen move: L
+
+   8   512     8     2 
+  16    64     4       
+ 256    32             
+ 128     4             
+Score = 6748
+
+[INFO] Chosen move: D
+
+   8   512     2       
+  16    64             
+ 256    32     8       
+ 128     4     4     2 
+Score = 6748
+
+[INFO] Chosen move: L
+
+   8   512     2     2 
+  16    64             
+ 256    32     8       
+ 128     8     2       
+Score = 6756
+
+[INFO] Chosen move: L
+
+   8   512     4       
+  16    64             
+ 256    32     8     2 
+ 128     8     2       
+Score = 6760
+
+[INFO] Chosen move: D
+
+   8   512     2       
+  16    64     4       
+ 256    32     8       
+ 128     8     2     2 
+Score = 6760
+
+[INFO] Chosen move: U
+
+   8   512     2     2 
+  16    64     4     4 
+ 256    32     8       
+ 128     8     2       
+Score = 6760
+
+[INFO] Chosen move: L
+
+   8   512     4       
+  16    64     8       
+ 256    32     8     2 
+ 128     8     2       
+Score = 6772
+
+[INFO] Chosen move: D
+
+   8   512           2 
+  16    64     4       
+ 256    32    16       
+ 128     8     2     2 
+Score = 6788
+
+[INFO] Chosen move: U
+
+   8   512     4     4 
+  16    64    16       
+ 256    32     2     4 
+ 128     8             
+Score = 6792
+
+[INFO] Chosen move: L
+
+   8   512     8       
+  16    64    16     2 
+ 256    32     2     4 
+ 128     8             
+Score = 6800
+
+[INFO] Chosen move: U
+
+   8   512     8     2 
+  16    64    16     4 
+ 256    32     2       
+ 128     8     2       
+Score = 6800
+
+[INFO] Chosen move: D
+
+   8   512             
+  16    64     8     4 
+ 256    32    16     2 
+ 128     8     4     4 
+Score = 6804
+
+[INFO] Chosen move: L
+
+   8   512             
+  16    64     8     4 
+ 256    32    16     2 
+ 128     8     8     4 
+Score = 6812
+
+[INFO] Chosen move: L
+
+   8   512     2       
+  16    64     8     4 
+ 256    32    16     2 
+ 128    16     4       
+Score = 6828
+
+[INFO] Chosen move: D
+
+   8   512     2     4 
+  16    64     8       
+ 256    32    16     4 
+ 128    16     4     2 
+Score = 6828
+
+[INFO] Chosen move: D
+
+   8   512     2     2 
+  16    64     8       
+ 256    32    16     8 
+ 128    16     4     2 
+Score = 6836
+
+[INFO] Chosen move: L
+
+   8   512     4     2 
+  16    64     8       
+ 256    32    16     8 
+ 128    16     4     2 
+Score = 6840
+
+[INFO] Chosen move: D
+
+   8   512     4     2 
+  16    64     8     2 
+ 256    32    16     8 
+ 128    16     4     2 
+Score = 6840
+
+[INFO] Chosen move: U
+
+   8   512     4     4 
+  16    64     8     8 
+ 256    32    16     2 
+ 128    16     4     2 
+Score = 6844
+
+[INFO] Chosen move: L
+
+   8   512     8     4 
+  16    64    16       
+ 256    32    16     2 
+ 128    16     4     2 
+Score = 6868
+
+[INFO] Chosen move: U
+
+   8   512     8     4 
+  16    64    32     4 
+ 256    32     4       
+ 128    16     2       
+Score = 6904
+
+[INFO] Chosen move: R
+
+   8   512     8     4 
+  16    64    32     4 
+       256    32     4 
+   4   128    16     2 
+Score = 6904
+
+[INFO] Chosen move: U
+
+   8   512     8     8 
+  16    64    64     4 
+   4   256    16     2 
+       128     2       
+Score = 6976
+
+[INFO] Chosen move: D
+
+       512     8     2 
+   8    64    64     8 
+  16   256    16     4 
+   4   128     2     2 
+Score = 6976
+
+[INFO] Chosen move: L
+
+ 512     8     2       
+   8   128     8     2 
+  16   256    16     4 
+   4   128     4       
+Score = 7108
+
+[INFO] Chosen move: D
+
+ 512     8     2       
+   8   128     8     2 
+  16   256    16     2 
+   4   128     4     4 
+Score = 7108
+
+[INFO] Chosen move: D
+
+ 512     8     2       
+   8   128     8     2 
+  16   256    16     4 
+   4   128     4     4 
+Score = 7112
+
+[INFO] Chosen move: U
+
+ 512     8     2     2 
+   8   128     8     8 
+  16   256    16     2 
+   4   128     4       
+Score = 7120
+
+[INFO] Chosen move: L
+
+ 512     8     4       
+   8   128    16     4 
+  16   256    16     2 
+   4   128     4       
+Score = 7140
+
+[INFO] Chosen move: U
+
+ 512     8     4     4 
+   8   128    32     2 
+  16   256     4       
+   4   128     2       
+Score = 7172
+
+[INFO] Chosen move: D
+
+ 512     8     4     2 
+   8   128    32       
+  16   256     4     4 
+   4   128     2     2 
+Score = 7172
+
+[INFO] Chosen move: R
+
+ 512     8     4     2 
+   4     8   128    32 
+        16   256     8 
+         4   128     4 
+Score = 7184
+
+[INFO] Chosen move: U
+
+ 512    16     4     2 
+   4    16   128    32 
+         4   256     8 
+         2   128     4 
+Score = 7200
+
+[INFO] Chosen move: U
+
+ 512    32     4     2 
+   4     4   128    32 
+         2   256     8 
+   2         128     4 
+Score = 7232
+
+[INFO] Chosen move: U
+
+ 512    32     4     2 
+   4     4   128    32 
+   2     2   256     8 
+         2   128     4 
+Score = 7232
+
+[INFO] Chosen move: U
+
+ 512    32     4     2 
+   4     4   128    32 
+   2     4   256     8 
+   2         128     4 
+Score = 7236
+
+[INFO] Chosen move: U
+
+ 512    32     4     2 
+   4     8   128    32 
+   4     2   256     8 
+             128     4 
+Score = 7248
+
+[INFO] Chosen move: U
+
+ 512    32     4     2 
+   8     8   128    32 
+   2     2   256     8 
+             128     4 
+Score = 7256
+
+[INFO] Chosen move: L
+
+ 512    32     4     2 
+  16   128    32       
+   4   256     8       
+ 128     4     2       
+Score = 7276
+
+[INFO] Chosen move: D
+
+ 512    32     4       
+  16   128    32     2 
+   4   256     8       
+ 128     4     2     2 
+Score = 7276
+
+[INFO] Chosen move: L
+
+ 512    32     4     2 
+  16   128    32     2 
+   4   256     8       
+ 128     4     4       
+Score = 7280
+
+[INFO] Chosen move: R
+
+ 512    32     4     2 
+  16   128    32     2 
+         4   256     8 
+         4   128     8 
+Score = 7288
+
+[INFO] Chosen move: L
+
+ 512    32     4     2 
+  16   128    32     2 
+   4   256     8     4 
+   4   128     8       
+Score = 7288
+
+[INFO] Chosen move: U
+
+ 512    32     4     4 
+  16   128    32     4 
+   8   256    16       
+       128     4       
+Score = 7316
+
+[INFO] Chosen move: L
+
+ 512    32     8       
+  16   128    32     4 
+   8   256    16       
+ 128     4     2       
+Score = 7324
+
+[INFO] Chosen move: U
+
+ 512    32     8     4 
+  16   128    32     2 
+   8   256    16       
+ 128     4     2       
+Score = 7324
+
+[INFO] Chosen move: D
+
+ 512    32     8       
+  16   128    32     4 
+   8   256    16     4 
+ 128     4     2     2 
+Score = 7324
+
+[INFO] Chosen move: U
+
+ 512    32     8     8 
+  16   128    32     2 
+   8   256    16     4 
+ 128     4     2       
+Score = 7332
+
+[INFO] Chosen move: R
+
+   4   512    32    16 
+  16   128    32     2 
+   8   256    16     4 
+       128     4     2 
+Score = 7348
+
+[INFO] Chosen move: U
+
+   4   512    64    16 
+  16   128    16     2 
+   8   256     4     4 
+   2   128           2 
+Score = 7412
+
+[INFO] Chosen move: L
+
+   4   512    64    16 
+  16   128    16     2 
+   8   256     8     4 
+   2   128     2       
+Score = 7420
+
+[INFO] Chosen move: D
+
+   4   512    64     2 
+  16   128    16    16 
+   8   256     8     2 
+   2   128     2     4 
+Score = 7420
+
+[INFO] Chosen move: L
+
+   4   512    64     2 
+  16   128    32     2 
+   8   256     8     2 
+   2   128     2     4 
+Score = 7452
+
+[INFO] Chosen move: D
+
+   4   512    64     2 
+  16   128    32     2 
+   8   256     8     4 
+   2   128     2     4 
+Score = 7456
+
+[INFO] Chosen move: U
+
+   4   512    64     4 
+  16   128    32     8 
+   8   256     8       
+   2   128     2     2 
+Score = 7468
+
+[INFO] Chosen move: L
+
+   4   512    64     4 
+  16   128    32     8 
+   8   256     8     2 
+   2   128     4       
+Score = 7472
+
+[INFO] Chosen move: D
+
+   4   512    64     2 
+  16   128    32     4 
+   8   256     8     8 
+   2   128     4     2 
+Score = 7472
+
+[INFO] Chosen move: L
+
+   4   512    64     2 
+  16   128    32     4 
+   8   256    16     2 
+   2   128     4     2 
+Score = 7488
+
+[INFO] Chosen move: U
+
+   4   512    64     2 
+  16   128    32     4 
+   8   256    16     4 
+   2   128     4     2 
+Score = 7492
+
+[INFO] Chosen move: U
+
+   4   512    64     2 
+  16   128    32     8 
+   8   256    16     2 
+   2   128     4     2 
+Score = 7500
+
+[INFO] Chosen move: D
+
+   4   512    64     2 
+  16   128    32     2 
+   8   256    16     8 
+   2   128     4     4 
+Score = 7504
+
+[INFO] Chosen move: R
+
+   4   512    64     2 
+  16   128    32     2 
+   8   256    16     8 
+   2     2   128     8 
+Score = 7512
+
+[INFO] Chosen move: D
+
+   4   512    64       
+  16   128    32     2 
+   8   256    16     4 
+   2     2   128    16 
+Score = 7532
+
+[INFO] Chosen move: L
+
+   4   512    64       
+  16   128    32     2 
+   8   256    16     4 
+   4   128    16     2 
+Score = 7536
+
+[INFO] Chosen move: D
+
+   4   512     2       
+  16   128    64     2 
+   8   256    32     4 
+   4   128    32     2 
+Score = 7568
+
+[INFO] Chosen move: U
+
+   4   512     2     2 
+  16   128    64     4 
+   8   256    64     2 
+   4   128           2 
+Score = 7632
+
+[INFO] Chosen move: U
+
+   4   512     2     2 
+  16   128   128     4 
+   8   256           4 
+   4   128     2       
+Score = 7764
+
+[INFO] Chosen move: L
+
+   4   512     4       
+  16   256     4     2 
+   8   256     4       
+   4   128     2       
+Score = 8024
+
+[INFO] Chosen move: D
+
+   4     4             
+  16   512     4       
+   8   512     8       
+   4   128     2     2 
+Score = 8544
+
+[INFO] Chosen move: L
+
+   8                   
+  16   512     4       
+   8   512     8     2 
+   4   128     4       
+Score = 8556
+
+[INFO] Chosen move: U
+
+   8  1024     4     2 
+  16   128     8       
+   8           4     4 
+   4                   
+Score = 9580
+
+[INFO] Chosen move: L
+
+   8  1024     4     2 
+  16   128     8       
+   8     8     2       
+   4                   
+Score = 9588
+
+[INFO] Chosen move: L
+
+   8  1024     4     2 
+  16   128     8       
+  16     2             
+   4                 2 
+Score = 9604
+
+[INFO] Chosen move: U
+
+   8  1024     4     4 
+  32   128     8       
+   4     2             
+                     2 
+Score = 9640
+
+[INFO] Chosen move: L
+
+   8  1024     8     2 
+  32   128     8       
+   4     2             
+   2                   
+Score = 9648
+
+[INFO] Chosen move: U
+
+   8  1024    16     2 
+  32   128             
+   4     2           2 
+   2                   
+Score = 9664
+
+[INFO] Chosen move: L
+
+   8  1024    16     2 
+  32   128             
+   4     4     2       
+   2                   
+Score = 9668
+
+[INFO] Chosen move: U
+
+   8  1024    16     2 
+  32   128     2     2 
+   4     4             
+   2                   
+Score = 9668
+
+[INFO] Chosen move: U
+
+   8  1024    16     4 
+  32   128     2       
+   4     4           2 
+   2                   
+Score = 9672
+
+[INFO] Chosen move: R
+
+   8  1024    16     4 
+        32   128     2 
+               8     2 
+               4     2 
+Score = 9680
+
+[INFO] Chosen move: U
+
+   8  1024    16     4 
+        32   128     4 
+               8     2 
+   2           4       
+Score = 9684
+
+[INFO] Chosen move: D
+
+              16       
+   2         128       
+   8  1024     8     8 
+   2    32     4     2 
+Score = 9692
+
+[INFO] Chosen move: L
+
+  16           2       
+   2   128             
+   8  1024    16       
+   2    32     4     2 
+Score = 9708
+
+[INFO] Chosen move: U
+
+  16   128     2     2 
+   2  1024    16       
+   8    32     4       
+   2                 4 
+Score = 9708
+
+[INFO] Chosen move: R
+
+        16   128     4 
+   4     2  1024    16 
+         8    32     4 
+               2     4 
+Score = 9712
+
+[INFO] Chosen move: U
+
+   4    16   128     4 
+         2  1024    16 
+   2     8    32     8 
+               2       
+Score = 9720
+
+[INFO] Chosen move: L
+
+   4    16   128     4 
+   2  1024    16       
+   2     8    32     8 
+   2     2             
+Score = 9720
+
+[INFO] Chosen move: U
+
+   4    16   128     4 
+   4  1024    16     8 
+   2     8    32     2 
+         2             
+Score = 9724
+
+[INFO] Chosen move: D
+
+        16     2       
+      1024   128     4 
+   8     8    16     8 
+   2     2    32     2 
+Score = 9732
+
+[INFO] Chosen move: L
+
+  16     2     4       
+1024   128     4       
+  16    16     8       
+   4    32     2       
+Score = 9752
+
+[INFO] Chosen move: U
+
+  16     2     8       
+1024   128     8       
+  16    16     2       
+   4    32     2       
+Score = 9760
+
+[INFO] Chosen move: D
+
+  16     2             
+1024   128           2 
+  16    16    16       
+   4    32     4       
+Score = 9780
+
+[INFO] Chosen move: D
+
+  16     2             
+1024   128             
+  16    16    16     4 
+   4    32     4     2 
+Score = 9780
+
+[INFO] Chosen move: L
+
+  16     2             
+1024   128             
+  32    16     4     4 
+   4    32     4     2 
+Score = 9812
+
+[INFO] Chosen move: R
+
+         2    16     2 
+            1024   128 
+        32    16     8 
+   4    32     4     2 
+Score = 9820
+
+[INFO] Chosen move: D
+
+              16     2 
+   2        1024   128 
+         2    16     8 
+   4    64     4     2 
+Score = 9884
+
+[INFO] Chosen move: D
+
+              16     2 
+   2        1024   128 
+   2     2    16     8 
+   4    64     4     2 
+Score = 9884
+
+[INFO] Chosen move: L
+
+  16     2     2       
+   2  1024   128       
+   4    16     8       
+   4    64     4     2 
+Score = 9888
+
+[INFO] Chosen move: L
+
+  16     4           4 
+   2  1024   128       
+   4    16     8       
+   4    64     4     2 
+Score = 9892
+
+[INFO] Chosen move: R
+
+         4    16     8 
+         2  1024   128 
+         4    16     8 
+   4    64     4     2 
+Score = 9900
+
+[INFO] Chosen move: U
+
+   4     4    16     8 
+         2  1024   128 
+         4    16     8 
+   2    64     4     2 
+Score = 9900
+
+[INFO] Chosen move: U
+
+   4     4    16     8 
+   2     2  1024   128 
+         4    16     8 
+   2    64     4     2 
+Score = 9900
+
+[INFO] Chosen move: R
+
+   2     8    16     8 
+         4  1024   128 
+         4    16     8 
+   2    64     4     2 
+Score = 9912
+
+[INFO] Chosen move: D
+
+              16     8 
+         8  1024   128 
+   2     8    16     8 
+   4    64     4     2 
+Score = 9924
+
+[INFO] Chosen move: D
+
+              16     8 
+         2  1024   128 
+   2    16    16     8 
+   4    64     4     2 
+Score = 9940
+
+[INFO] Chosen move: L
+
+  16     8     2       
+   2  1024   128       
+   2    32     8       
+   4    64     4     2 
+Score = 9972
+
+[INFO] Chosen move: U
+
+  16     8     2     2 
+   4  1024   128     4 
+   4    32     8       
+        64     4       
+Score = 9976
+
+[INFO] Chosen move: D
+
+   2     8     2       
+      1024   128       
+  16    32     8     2 
+   8    64     4     4 
+Score = 9984
+
+[INFO] Chosen move: L
+
+   2     8     2       
+1024   128           2 
+  16    32     8     2 
+   8    64     8       
+Score = 9992
+
+[INFO] Chosen move: L
+
+   2     8     2       
+1024   128     2       
+  16    32     8     2 
+   8    64     8     2 
+Score = 9992
+
+[INFO] Chosen move: U
+
+   2     8     4     4 
+1024   128    16       
+  16    32             
+   8    64     2       
+Score = 10016
+
+[INFO] Chosen move: L
+
+   2     8     8       
+1024   128    16     2 
+  16    32             
+   8    64     2       
+Score = 10024
+
+[INFO] Chosen move: R
+
+               2    16 
+1024   128    16     2 
+              16    32 
+   2     8    64     2 
+Score = 10040
+
+[INFO] Chosen move: U
+
+1024   128     2    16 
+   2     8    32     2 
+   2          64    32 
+                     2 
+Score = 10072
+
+[INFO] Chosen move: L
+
+1024   128     2    16 
+   2     8    32     2 
+   2    64    32     2 
+   2                   
+Score = 10072
+
+[INFO] Chosen move: U
+
+1024   128     2    16 
+   4     8    64     4 
+   2    64             
+                     2 
+Score = 10144
+
+[INFO] Chosen move: L
+
+1024   128     2    16 
+   4     8    64     4 
+   2    64             
+   2           4       
+Score = 10144
+
+[INFO] Chosen move: U
+
+1024   128     2    16 
+   4     8    64     4 
+   4    64     4       
+   2                   
+Score = 10148
+
+[INFO] Chosen move: U
+
+1024   128     2    16 
+   8     8    64     4 
+   2    64     4       
+               2       
+Score = 10156
+
+[INFO] Chosen move: L
+
+1024   128     2    16 
+  16    64     4     2 
+   2    64     4       
+   2                   
+Score = 10172
+
+[INFO] Chosen move: U
+
+1024   128     2    16 
+  16   128     8     2 
+   4                   
+   2                   
+Score = 10312
+
+[INFO] Chosen move: U
+
+1024   256     2    16 
+  16           8     2 
+   4                   
+   2                 2 
+Score = 10568
+
+[INFO] Chosen move: L
+
+1024   256     2    16 
+  16     8     2       
+   4                   
+   4                 4 
+Score = 10572
+
+[INFO] Chosen move: U
+
+1024   256     4    16 
+  16     8           4 
+   8                 2 
+                       
+Score = 10584
+
+[INFO] Chosen move: L
+
+1024   256     4    16 
+  16     8     4       
+   8     2     4       
+                       
+Score = 10584
+
+[INFO] Chosen move: U
+
+1024   256     8    16 
+  16     8     4       
+   8     2     2       
+                       
+Score = 10592
+
+[INFO] Chosen move: R
+
+1024   256     8    16 
+        16     8     4 
+               8     4 
+   2                   
+Score = 10596
+
+[INFO] Chosen move: U
+
+1024   256    16    16 
+   2    16     8     8 
+                     2 
+                       
+Score = 10620
+
+[INFO] Chosen move: L
+
+1024   256    32       
+   2    16    16       
+   2                   
+                     4 
+Score = 10668
+
+[INFO] Chosen move: L
+
+1024   256    32       
+   2    32             
+   2     2             
+   4                   
+Score = 10700
+
+[INFO] Chosen move: U
+
+1024   256    32       
+   4    32             
+   4     2             
+         2             
+Score = 10704
+
+[INFO] Chosen move: U
+
+1024   256    32       
+   8    32     4       
+         4             
+                       
+Score = 10716
+
+[INFO] Chosen move: R
+
+      1024   256    32 
+         8    32     4 
+                     4 
+                     2 
+Score = 10716
+
+[INFO] Chosen move: U
+
+   2  1024   256    32 
+         8    32     8 
+                     2 
+                       
+Score = 10724
+
+[INFO] Chosen move: L
+
+   2  1024   256    32 
+   8    32     8       
+   2           4       
+                       
+Score = 10724
+
+[INFO] Chosen move: R
+
+   2  1024   256    32 
+         8    32     8 
+               2     4 
+                     2 
+Score = 10724
+
+[INFO] Chosen move: D
+
+                    32 
+         2   256     8 
+      1024    32     4 
+   2     8     2     2 
+Score = 10724
+
+[INFO] Chosen move: L
+
+  32     2             
+   2   256     8       
+1024    32     4       
+   2     8     4       
+Score = 10728
+
+[INFO] Chosen move: D
+
+  32     2             
+   2   256             
+1024    32     8       
+   2     8     8     2 
+Score = 10736
+
+[INFO] Chosen move: U
+
+  32     2    16     2 
+   2   256           2 
+1024    32             
+   2     8             
+Score = 10752
+
+[INFO] Chosen move: U
+
+  32     2    16     4 
+   2   256             
+1024    32     2       
+   2     8             
+Score = 10756
+
+[INFO] Chosen move: U
+
+  32     2    16     4 
+   2   256     2       
+1024    32     2       
+   2     8             
+Score = 10756
+
+[INFO] Chosen move: D
+
+  32     2             
+   2   256           2 
+1024    32    16       
+   2     8     4     4 
+Score = 10760
+
+[INFO] Chosen move: R
+
+              32     2 
+         2   256     2 
+   2  1024    32    16 
+         2     8     8 
+Score = 10768
+
+[INFO] Chosen move: D
+
+         2    32       
+         2   256     4 
+      1024    32    16 
+   2     2     8     8 
+Score = 10772
+
+[INFO] Chosen move: L
+
+   2    32     2       
+   2   256     4       
+1024    32    16       
+   4    16             
+Score = 10792
+
+[INFO] Chosen move: R
+
+         2    32     2 
+   2     2   256     4 
+      1024    32    16 
+               4    16 
+Score = 10792
+
+[INFO] Chosen move: U
+
+   2     4    32     2 
+      1024   256     4 
+              32    32 
+   2           4       
+Score = 10828
+
+[INFO] Chosen move: U
+
+   4     4    32     2 
+      1024   256     4 
+   2          32    32 
+               4       
+Score = 10832
+
+[INFO] Chosen move: L
+
+   8    32     2       
+1024   256     4       
+   2    64             
+   4                 4 
+Score = 10904
+
+[INFO] Chosen move: D
+
+   8                   
+1024    32     2       
+   2   256     2       
+   4    64     4     4 
+Score = 10904
+
+[INFO] Chosen move: D
+
+   8                   
+1024    32     2       
+   2   256     4       
+   4    64     4     4 
+Score = 10908
+
+[INFO] Chosen move: U
+
+   8    32     2     4 
+1024   256     8       
+   2    64             
+   4                 2 
+Score = 10916
+
+[INFO] Chosen move: D
+
+   8                   
+1024    32     2       
+   2   256     2     4 
+   4    64     8     2 
+Score = 10916
+
+[INFO] Chosen move: U
+
+   8    32     4     4 
+1024   256     8     2 
+   2    64           2 
+   4                   
+Score = 10920
+
+[INFO] Chosen move: U
+
+   8    32     4     4 
+1024   256     8     4 
+   2    64             
+   4     4             
+Score = 10924
+
+[INFO] Chosen move: D
+
+   8    32             
+1024   256             
+   2    64     4     2 
+   4     4     8     8 
+Score = 10932
+
+[INFO] Chosen move: L
+
+   8    32             
+1024   256             
+   2    64     4     2 
+   8    16     2       
+Score = 10956
+
+[INFO] Chosen move: D
+
+   8    32             
+1024   256           2 
+   2    64     4       
+   8    16     2     2 
+Score = 10956
+
+[INFO] Chosen move: U
+
+   8    32     4     4 
+1024   256     2     2 
+   2    64             
+   8    16             
+Score = 10960
+
+[INFO] Chosen move: L
+
+   8    32     8     4 
+1024   256     4       
+   2    64             
+   8    16             
+Score = 10972
+
+[INFO] Chosen move: D
+
+   8    32     2       
+1024   256             
+   2    64     8       
+   8    16     4     4 
+Score = 10972
+
+[INFO] Chosen move: L
+
+   8    32     2       
+1024   256           2 
+   2    64     8       
+   8    16     8       
+Score = 10980
+
+[INFO] Chosen move: D
+
+   8    32           2 
+1024   256             
+   2    64     2       
+   8    16    16     2 
+Score = 10996
+
+[INFO] Chosen move: D
+
+   8    32             
+1024   256     4       
+   2    64     2       
+   8    16    16     4 
+Score = 11000
+
+[INFO] Chosen move: R
+
+   2           8    32 
+      1024   256     4 
+         2    64     2 
+         8    32     4 
+Score = 11032
+
+[INFO] Chosen move: U
+
+   2  1024     8    32 
+   4     2   256     4 
+         8    64     2 
+              32     4 
+Score = 11032
+
+[INFO] Chosen move: D
+
+   2           8    32 
+      1024   256     4 
+   2     2    64     2 
+   4     8    32     4 
+Score = 11032
+
+[INFO] Chosen move: U
+
+   4  1024     8    32 
+   4     2   256     4 
+         8    64     2 
+   2          32     4 
+Score = 11036
+
+[INFO] Chosen move: U
+
+   8  1024     8    32 
+   2     2   256     4 
+         8    64     2 
+         4    32     4 
+Score = 11044
+
+[INFO] Chosen move: D
+
+   4  1024     8    32 
+         2   256     4 
+   8     8    64     2 
+   2     4    32     4 
+Score = 11044
+
+[INFO] Chosen move: R
+
+   4  1024     8    32 
+   2     2   256     4 
+        16    64     2 
+   2     4    32     4 
+Score = 11060
+
+[INFO] Chosen move: D
+
+      1024     8    32 
+   2     2   256     4 
+   4    16    64     2 
+   4     4    32     4 
+Score = 11064
+
+[INFO] Chosen move: L
+
+1024     8    32       
+   4   256     4     2 
+   4    16    64     2 
+   8    32     4       
+Score = 11076
+
+[INFO] Chosen move: U
+
+1024     8    32     4 
+   8   256     4       
+   8    16    64     2 
+        32     4       
+Score = 11088
+
+[INFO] Chosen move: U
+
+1024     8    32     4 
+  16   256     4     2 
+        16    64       
+   2    32     4       
+Score = 11104
+
+[INFO] Chosen move: L
+
+1024     8    32     4 
+  16   256     4     2 
+  16    64           4 
+   2    32     4       
+Score = 11104
+
+[INFO] Chosen move: L
+
+1024     8    32     4 
+  16   256     4     2 
+  16    64     4       
+   2    32     4     2 
+Score = 11104
+
+[INFO] Chosen move: U
+
+1024     8    32     4 
+  32   256     8     4 
+   2    64     4     2 
+        32             
+Score = 11148
+
+[INFO] Chosen move: R
+
+1024     8    32     4 
+  32   256     8     4 
+   2    64     4     2 
+               2    32 
+Score = 11148
+
+[INFO] Chosen move: L
+
+1024     8    32     4 
+  32   256     8     4 
+   2    64     4     2 
+   2    32           2 
+Score = 11148
+
+[INFO] Chosen move: L
+
+1024     8    32     4 
+  32   256     8     4 
+   2    64     4     2 
+   2    32     2     4 
+Score = 11148
+
+[INFO] Chosen move: U
+
+1024     8    32     8 
+  32   256     8     2 
+   4    64     4     4 
+   2    32     2       
+Score = 11160
+
+[INFO] Chosen move: L
+
+1024     8    32     8 
+  32   256     8     2 
+   4    64     8     4 
+   2    32     2       
+Score = 11168
+
+[INFO] Chosen move: R
+
+1024     8    32     8 
+  32   256     8     2 
+   4    64     8     4 
+   2     2    32     2 
+Score = 11168
+
+[INFO] Chosen move: L
+
+1024     8    32     8 
+  32   256     8     2 
+   4    64     8     4 
+   4    32     2     4 
+Score = 11172
+
+[INFO] Chosen move: U
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64     2     8 
+        32           2 
+Score = 11204
+
+[INFO] Chosen move: R
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64     2     8 
+   2          32     2 
+Score = 11204
+
+[INFO] Chosen move: L
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64     2     8 
+   2    32     2     2 
+Score = 11204
+
+[INFO] Chosen move: U
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64     4     8 
+   2    32     2     2 
+Score = 11208
+
+[INFO] Chosen move: L
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64     4     8 
+   2    32     4     2 
+Score = 11212
+
+[INFO] Chosen move: U
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64     8     8 
+   2    32     2     2 
+Score = 11220
+
+[INFO] Chosen move: L
+
+1024     8    32     8 
+  32   256    16     2 
+   8    64    16       
+   2    32     4     2 
+Score = 11240
+
+[INFO] Chosen move: D
+
+1024     8           2 
+  32   256    32       
+   8    64    32     8 
+   2    32     4     4 
+Score = 11276
+
+[INFO] Chosen move: D
+
+1024     8     4       
+  32   256           2 
+   8    64    64     8 
+   2    32     4     4 
+Score = 11340
+
+[INFO] Chosen move: D
+
+1024     8           2 
+  32   256     4     2 
+   8    64    64     8 
+   2    32     4     4 
+Score = 11340
+
+[INFO] Chosen move: D
+
+1024     8           2 
+  32   256     4     4 
+   8    64    64     8 
+   2    32     4     4 
+Score = 11344
+
+[INFO] Chosen move: L
+
+1024     8     2       
+  32   256     8       
+   8   128     8       
+   2    32     8     4 
+Score = 11488
+
+[INFO] Chosen move: U
+
+1024     8     2     4 
+  32   256    16       
+   8   128     8       
+   2    32     2       
+Score = 11504
+
+[INFO] Chosen move: D
+
+1024     8     2       
+  32   256    16       
+   8   128     8     2 
+   2    32     2     4 
+Score = 11504
+
+[INFO] Chosen move: U
+
+1024     8     2     2 
+  32   256    16     4 
+   8   128     8     4 
+   2    32     2       
+Score = 11504
+
+[INFO] Chosen move: U
+
+1024     8     2     2 
+  32   256    16     8 
+   8   128     8       
+   2    32     2     2 
+Score = 11512
+
+[INFO] Chosen move: D
+
+1024     8     2     2 
+  32   256    16     2 
+   8   128     8     8 
+   2    32     2     2 
+Score = 11512
+
+[INFO] Chosen move: L
+
+1024     8     4       
+  32   256    16     2 
+   8   128    16       
+   2    32     4     2 
+Score = 11536
+
+[INFO] Chosen move: U
+
+1024     8     4     4 
+  32   256    32       
+   8   128     4       
+   2    32     4       
+Score = 11572
+
+[INFO] Chosen move: L
+
+1024     8     8       
+  32   256    32       
+   8   128     4       
+   2    32     4     2 
+Score = 11580
+
+[INFO] Chosen move: L
+
+1024    16           4 
+  32   256    32       
+   8   128     4       
+   2    32     4     2 
+Score = 11596
+
+[INFO] Chosen move: L
+
+1024    16     4     2 
+  32   256    32       
+   8   128     4       
+   2    32     4     2 
+Score = 11596
+
+[INFO] Chosen move: U
+
+1024    16     4     4 
+  32   256    32       
+   8   128     8     2 
+   2    32             
+Score = 11608
+
+[INFO] Chosen move: U
+
+1024    16     4     4 
+  32   256    32     2 
+   8   128     8       
+   2    32     2       
+Score = 11608
+
+[INFO] Chosen move: L
+
+1024    16     8     2 
+  32   256    32     2 
+   8   128     8       
+   2    32     2       
+Score = 11616
+
+[INFO] Chosen move: D
+
+1024    16     8       
+  32   256    32       
+   8   128     8     2 
+   2    32     2     4 
+Score = 11620
+
+[INFO] Chosen move: U
+
+1024    16     8     2 
+  32   256    32     4 
+   8   128     8     2 
+   2    32     2       
+Score = 11620
+
+[INFO] Chosen move: D
+
+1024    16     8     2 
+  32   256    32     2 
+   8   128     8     4 
+   2    32     2     2 
+Score = 11620
+
+[INFO] Chosen move: U
+
+1024    16     8     4 
+  32   256    32     4 
+   8   128     8     2 
+   2    32     2     2 
+Score = 11624
+
+[INFO] Chosen move: L
+
+1024    16     8     4 
+  32   256    32     4 
+   8   128     8     2 
+   2    32     4     4 
+Score = 11628
+
+[INFO] Chosen move: R
+
+1024    16     8     4 
+  32   256    32     4 
+   8   128     8     2 
+   2     2    32     8 
+Score = 11636
+
+[INFO] Chosen move: U
+
+1024    16     8     8 
+  32   256    32     2 
+   8   128     8     8 
+   2     2    32     2 
+Score = 11644
+
+[INFO] Chosen move: L
+
+1024    16    16       
+  32   256    32     2 
+   8   128    16     2 
+   4    32     2       
+Score = 11680
+
+[INFO] Chosen move: U
+
+1024    16    16     4 
+  32   256    32       
+   8   128    16     2 
+   4    32     2       
+Score = 11684
+
+[INFO] Chosen move: L
+
+1024    32     4       
+  32   256    32       
+   8   128    16     2 
+   4    32     2     4 
+Score = 11716
+
+[INFO] Chosen move: U
+
+1024    32     4     2 
+  32   256    32     4 
+   8   128    16     2 
+   4    32     2       
+Score = 11716
+
+[INFO] Chosen move: D
+
+1024    32     4     2 
+  32   256    32     2 
+   8   128    16     4 
+   4    32     2     2 
+Score = 11716
+
+[INFO] Chosen move: L
+
+1024    32     4     2 
+  32   256    32     2 
+   8   128    16     4 
+   4    32     4     2 
+Score = 11720
+
+[INFO] Chosen move: U
+
+1024    32     4     4 
+  32   256    32     4 
+   8   128    16     2 
+   4    32     4     2 
+Score = 11724
+
+[INFO] Chosen move: L
+
+1024    32     8     2 
+  32   256    32     4 
+   8   128    16     2 
+   4    32     4     2 
+Score = 11732
+
+[INFO] Chosen move: U
+
+1024    32     8     2 
+  32   256    32     4 
+   8   128    16     4 
+   4    32     4     4 
+Score = 11736
+
+[INFO] Chosen move: R
+
+1024    32     8     2 
+  32   256    32     4 
+   8   128    16     4 
+   4     4    32     8 
+Score = 11744
+
+[INFO] Chosen move: U
+
+1024    32     8     2 
+  32   256    32     8 
+   8   128    16     8 
+   4     4    32     2 
+Score = 11752
+
+[INFO] Chosen move: R
+
+1024    32     8     2 
+  32   256    32     8 
+   8   128    16     8 
+   2     8    32     2 
+Score = 11760
+
+[INFO] Chosen move: D
+
+1024    32     8     2 
+  32   256    32     2 
+   8   128    16    16 
+   2     8    32     2 
+Score = 11776
+
+[INFO] Chosen move: L
+
+1024    32     8     2 
+  32   256    32     2 
+   8   128    32     2 
+   2     8    32     2 
+Score = 11808
+
+[INFO] Chosen move: U
+
+1024    32     8     4 
+  32   256    64     4 
+   8   128    32       
+   2     8           2 
+Score = 11880
+
+[INFO] Chosen move: L
+
+1024    32     8     4 
+  32   256    64     4 
+   8   128    32     4 
+   2     8     2       
+Score = 11880
+
+[INFO] Chosen move: U
+
+1024    32     8     8 
+  32   256    64     4 
+   8   128    32       
+   2     8     2     4 
+Score = 11888
+
+[INFO] Chosen move: U
+
+1024    32     8     8 
+  32   256    64     8 
+   8   128    32     2 
+   2     8     2       
+Score = 11896
+
+[INFO] Chosen move: D
+
+1024    32     8       
+  32   256    64     2 
+   8   128    32    16 
+   2     8     2     2 
+Score = 11912
+
+[INFO] Chosen move: L
+
+1024    32     8     4 
+  32   256    64     2 
+   8   128    32    16 
+   2     8     4       
+Score = 11916
+
+[INFO] Chosen move: R
+
+1024    32     8     4 
+  32   256    64     2 
+   8   128    32    16 
+   2     2     8     4 
+Score = 11916
+
+[INFO] Chosen move: L
+
+1024    32     8     4 
+  32   256    64     2 
+   8   128    32    16 
+   4     8     4     4 
+Score = 11920
+
+[INFO] Chosen move: R
+
+1024    32     8     4 
+  32   256    64     2 
+   8   128    32    16 
+   2     4     8     8 
+Score = 11928
+
+[INFO] Chosen move: R
+
+1024    32     8     4 
+  32   256    64     2 
+   8   128    32    16 
+   2     2     4    16 
+Score = 11944
+
+[INFO] Chosen move: D
+
+1024    32     8     2 
+  32   256    64     4 
+   8   128    32     2 
+   2     2     4    32 
+Score = 11976
+
+[INFO] Chosen move: L
+
+1024    32     8     2 
+  32   256    64     4 
+   8   128    32     2 
+   4     4    32     2 
+Score = 11980
+
+[INFO] Chosen move: D
+
+1024    32           2 
+  32   256     8     2 
+   8   128    64     4 
+   4     4    64     4 
+Score = 12048
+
+[INFO] Chosen move: D
+
+1024    32     2       
+  32   256             
+   8   128     8     4 
+   4     4   128     8 
+Score = 12188
+
+[INFO] Chosen move: D
+
+1024    32             
+  32   256     2     4 
+   8   128     8     4 
+   4     4   128     8 
+Score = 12188
+
+[INFO] Chosen move: D
+
+1024    32             
+  32   256     2     2 
+   8   128     8     8 
+   4     4   128     8 
+Score = 12196
+
+[INFO] Chosen move: L
+
+1024    32           2 
+  32   256     4       
+   8   128    16       
+   8   128     8       
+Score = 12224
+
+[INFO] Chosen move: U
+
+1024    32     4     2 
+  32   256    16       
+  16   256     8       
+         4             
+Score = 12496
+
+[INFO] Chosen move: U
+
+1024    32     4     2 
+  32   512    16       
+  16     4     8       
+   4                   
+Score = 13008
+
+[INFO] Chosen move: D
+
+1024                 2 
+  32    32     4       
+  16   512    16       
+   4     4     8     2 
+Score = 13008
+
+[INFO] Chosen move: L
+
+1024     2             
+  64     4             
+  16   512    16       
+   8     8     2     2 
+Score = 13080
+
+[INFO] Chosen move: L
+
+1024     2             
+  64     4             
+  16   512    16       
+  16     4           2 
+Score = 13100
+
+[INFO] Chosen move: U
+
+1024     2    16     2 
+  64     4             
+  32   512             
+         4     2       
+Score = 13132
+
+[INFO] Chosen move: L
+
+1024     2    16     2 
+  64     4             
+  32   512     2       
+   4     2             
+Score = 13132
+
+[INFO] Chosen move: D
+
+1024     2             
+  64     4     4       
+  32   512    16       
+   4     2     2     2 
+Score = 13132
+
+[INFO] Chosen move: L
+
+1024     2           2 
+  64     8             
+  32   512    16       
+   4     4     2       
+Score = 13144
+
+[INFO] Chosen move: L
+
+1024     4     4       
+  64     8             
+  32   512    16       
+   8     2             
+Score = 13156
+
+[INFO] Chosen move: L
+
+1024     8     2       
+  64     8             
+  32   512    16       
+   8     2             
+Score = 13164
+
+[INFO] Chosen move: U
+
+1024    16     2       
+  64   512    16       
+  32     2             
+   8     2             
+Score = 13180
+
+[INFO] Chosen move: U
+
+1024    16     2       
+  64   512    16       
+  32     4             
+   8     2             
+Score = 13184
+
+[INFO] Chosen move: D
+
+1024    16             
+  64   512     2       
+  32     4     2       
+   8     2    16       
+Score = 13184
+
+[INFO] Chosen move: D
+
+1024    16             
+  64   512             
+  32     4     4     2 
+   8     2    16       
+Score = 13188
+
+[INFO] Chosen move: L
+
+1024    16             
+  64   512             
+  32     8     2     2 
+   8     2    16       
+Score = 13196
+
+[INFO] Chosen move: U
+
+1024    16     2     2 
+  64   512    16       
+  32     8             
+   8     2     4       
+Score = 13196
+
+[INFO] Chosen move: U
+
+1024    16     2     2 
+  64   512    16     2 
+  32     8     4       
+   8     2             
+Score = 13196
+
+[INFO] Chosen move: L
+
+1024    16     4       
+  64   512    16     2 
+  32     8     4     2 
+   8     2             
+Score = 13200
+
+[INFO] Chosen move: U
+
+1024    16     4     4 
+  64   512    16     2 
+  32     8     4       
+   8     2             
+Score = 13204
+
+[INFO] Chosen move: L
+
+1024    16     8     2 
+  64   512    16     2 
+  32     8     4       
+   8     2             
+Score = 13212
+
+[INFO] Chosen move: D
+
+1024    16           4 
+  64   512     8       
+  32     8    16       
+   8     2     4     4 
+Score = 13216
+
+[INFO] Chosen move: U
+
+1024    16     8     8 
+  64   512    16       
+  32     8     4       
+   8     2     2       
+Score = 13224
+
+[INFO] Chosen move: R
+
+      1024    16    16 
+   2    64   512    16 
+        32     8     4 
+               8     4 
+Score = 13244
+
+[INFO] Chosen move: U
+
+   2  1024    16    32 
+        64   512     8 
+   2    32    16       
+                       
+Score = 13300
+
+[INFO] Chosen move: U
+
+   4  1024    16    32 
+        64   512     8 
+        32    16       
+               4       
+Score = 13304
+
+[INFO] Chosen move: L
+
+   4  1024    16    32 
+  64   512     8       
+  32    16     4       
+   4                   
+Score = 13304
+
+[INFO] Chosen move: R
+
+   4  1024    16    32 
+        64   512     8 
+   2    32    16     4 
+                     4 
+Score = 13304
+
+[INFO] Chosen move: U
+
+   4  1024    16    32 
+   2    64   512     8 
+        32    16     8 
+               2       
+Score = 13312
+
+[INFO] Chosen move: U
+
+   4  1024    16    32 
+   2    64   512    16 
+        32    16       
+         4     2       
+Score = 13328
+
+[INFO] Chosen move: D
+
+      1024    16     2 
+        64   512       
+   4    32    16    32 
+   2     4     2    16 
+Score = 13328
+
+[INFO] Chosen move: L
+
+1024    16     2       
+  64   512     2       
+   4    32    16    32 
+   2     4     2    16 
+Score = 13328
+
+[INFO] Chosen move: U
+
+1024    16     4    32 
+  64   512    16    16 
+   4    32     2       
+   2     4           2 
+Score = 13332
+
+[INFO] Chosen move: R
+
+1024    16     4    32 
+        64   512    32 
+         4    32     2 
+   2     2     4     2 
+Score = 13364
+
+[INFO] Chosen move: L
+
+1024    16     4    32 
+  64   512    32     2 
+   4    32     2       
+   4     4     2       
+Score = 13368
+
+[INFO] Chosen move: L
+
+1024    16     4    32 
+  64   512    32     2 
+   4    32     2       
+   8     2           2 
+Score = 13376
+
+[INFO] Chosen move: D
+
+1024    16           2 
+  64   512     4       
+   4    32    32    32 
+   8     2     2     4 
+Score = 13380
+
+[INFO] Chosen move: L
+
+1024    16     2       
+  64   512     4       
+   4    64    32     4 
+   8     4     4       
+Score = 13448
+
+[INFO] Chosen move: L
+
+1024    16     2       
+  64   512     4       
+   4    64    32     4 
+   8     8     2       
+Score = 13456
+
+[INFO] Chosen move: L
+
+1024    16     2       
+  64   512     4       
+   4    64    32     4 
+  16     2     2       
+Score = 13472
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512     4       
+   4    64    32     4 
+  16     2     2     4 
+Score = 13472
+
+[INFO] Chosen move: L
+
+1024    16     2       
+  64   512     4       
+   4    64    32     4 
+  16     4     4     2 
+Score = 13476
+
+[INFO] Chosen move: U
+
+1024    16     2     4 
+  64   512     4     2 
+   4    64    32     4 
+  16     4     4       
+Score = 13476
+
+[INFO] Chosen move: D
+
+1024    16     2     2 
+  64   512     4     4 
+   4    64    32     2 
+  16     4     4     4 
+Score = 13476
+
+[INFO] Chosen move: L
+
+1024    16     4       
+  64   512     8       
+   4    64    32     2 
+  16     8     4     4 
+Score = 13496
+
+[INFO] Chosen move: L
+
+1024    16     4       
+  64   512     8     2 
+   4    64    32     2 
+  16     8     8       
+Score = 13504
+
+[INFO] Chosen move: U
+
+1024    16     4     4 
+  64   512     8     4 
+   4    64    32       
+  16     8     8       
+Score = 13508
+
+[INFO] Chosen move: L
+
+1024    16     8     2 
+  64   512     8     4 
+   4    64    32       
+  16    16             
+Score = 13532
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512             
+   4    64    16     2 
+  16    16    32     4 
+Score = 13548
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512     2       
+   4    64    16     2 
+  16    16    32     4 
+Score = 13548
+
+[INFO] Chosen move: D
+
+1024    16     4       
+  64   512     4       
+   4    64    16     2 
+  16    16    32     4 
+Score = 13552
+
+[INFO] Chosen move: U
+
+1024    16     8     2 
+  64   512    16     4 
+   4    64    32       
+  16    16           2 
+Score = 13560
+
+[INFO] Chosen move: D
+
+1024    16           2 
+  64   512     8     2 
+   4    64    16     4 
+  16    16    32     2 
+Score = 13560
+
+[INFO] Chosen move: U
+
+1024    16     8     4 
+  64   512    16     4 
+   4    64    32     2 
+  16    16     2       
+Score = 13564
+
+[INFO] Chosen move: R
+
+1024    16     8     4 
+  64   512    16     4 
+   4    64    32     2 
+   4          32     2 
+Score = 13596
+
+[INFO] Chosen move: U
+
+1024    16     8     8 
+  64   512    16     4 
+   8    64    64       
+                     2 
+Score = 13680
+
+[INFO] Chosen move: L
+
+1024    16    16       
+  64   512    16     4 
+   8   128             
+   2     4             
+Score = 13824
+
+[INFO] Chosen move: U
+
+1024    16    32     4 
+  64   512           4 
+   8   128             
+   2     4             
+Score = 13856
+
+[INFO] Chosen move: U
+
+1024    16    32     8 
+  64   512             
+   8   128             
+   2     4           2 
+Score = 13864
+
+[INFO] Chosen move: L
+
+1024    16    32     8 
+  64   512           2 
+   8   128             
+   2     4     2       
+Score = 13864
+
+[INFO] Chosen move: L
+
+1024    16    32     8 
+  64   512     2     4 
+   8   128             
+   2     4     2       
+Score = 13864
+
+[INFO] Chosen move: U
+
+1024    16    32     8 
+  64   512     4     4 
+   8   128           2 
+   2     4             
+Score = 13868
+
+[INFO] Chosen move: L
+
+1024    16    32     8 
+  64   512     8       
+   8   128     2       
+   2     4     2       
+Score = 13876
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512    32       
+   8   128     8       
+   2     4     4     8 
+Score = 13880
+
+[INFO] Chosen move: L
+
+1024    16     2       
+  64   512    32     4 
+   8   128     8       
+   2     8     8       
+Score = 13888
+
+[INFO] Chosen move: U
+
+1024    16     2     4 
+  64   512    32       
+   8   128    16     2 
+   2     8             
+Score = 13904
+
+[INFO] Chosen move: U
+
+1024    16     2     4 
+  64   512    32     2 
+   8   128    16       
+   2     8           4 
+Score = 13904
+
+[INFO] Chosen move: L
+
+1024    16     2     4 
+  64   512    32     2 
+   8   128    16       
+   2     8     4     2 
+Score = 13904
+
+[INFO] Chosen move: D
+
+1024    16     2     2 
+  64   512    32       
+   8   128    16     4 
+   2     8     4     4 
+Score = 13908
+
+[INFO] Chosen move: L
+
+1024    16     4       
+  64   512    32       
+   8   128    16     4 
+   2     8     8     2 
+Score = 13920
+
+[INFO] Chosen move: U
+
+1024    16     4     4 
+  64   512    32     2 
+   8   128    16     2 
+   2     8     8       
+Score = 13920
+
+[INFO] Chosen move: L
+
+1024    16     8     2 
+  64   512    32     2 
+   8   128    16     2 
+   2    16             
+Score = 13944
+
+[INFO] Chosen move: R
+
+1024    16     8     2 
+  64   512    32     2 
+   8   128    16     2 
+         2     2    16 
+Score = 13944
+
+[INFO] Chosen move: R
+
+1024    16     8     2 
+  64   512    32     2 
+   8   128    16     2 
+   2           4    16 
+Score = 13948
+
+[INFO] Chosen move: R
+
+1024    16     8     2 
+  64   512    32     2 
+   8   128    16     2 
+   2     2     4    16 
+Score = 13948
+
+[INFO] Chosen move: L
+
+1024    16     8     2 
+  64   512    32     2 
+   8   128    16     2 
+   4     4    16     4 
+Score = 13952
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512     8     2 
+   8   128    32     4 
+   4     4    32     4 
+Score = 13988
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512     2       
+   8   128     8     2 
+   4     4    64     8 
+Score = 14060
+
+[INFO] Chosen move: U
+
+1024    16     4     2 
+  64   512     8     8 
+   8   128    64       
+   4     4           2 
+Score = 14064
+
+[INFO] Chosen move: D
+
+1024    16           2 
+  64   512     4     2 
+   8   128     8     8 
+   4     4    64     2 
+Score = 14064
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512     4     4 
+   8   128     8     8 
+   4     4    64     2 
+Score = 14068
+
+[INFO] Chosen move: U
+
+1024    16     2     4 
+  64   512     4     8 
+   8   128     8     2 
+   4     4    64     2 
+Score = 14068
+
+[INFO] Chosen move: D
+
+1024    16     2     2 
+  64   512     4     4 
+   8   128     8     8 
+   4     4    64     4 
+Score = 14072
+
+[INFO] Chosen move: L
+
+1024    16     4       
+  64   512     8       
+   8   128    16     2 
+   8    64     4       
+Score = 14108
+
+[INFO] Chosen move: U
+
+1024    16     4     2 
+  64   512     8       
+  16   128    16     2 
+        64     4       
+Score = 14124
+
+[INFO] Chosen move: U
+
+1024    16     4     4 
+  64   512     8     2 
+  16   128    16       
+        64     4       
+Score = 14128
+
+[INFO] Chosen move: L
+
+1024    16     8       
+  64   512     8     2 
+  16   128    16     4 
+  64     4             
+Score = 14136
+
+[INFO] Chosen move: D
+
+1024    16           4 
+  64   512             
+  16   128    16     2 
+  64     4    16     4 
+Score = 14152
+
+[INFO] Chosen move: L
+
+1024    16     4     2 
+  64   512             
+  16   128    16     2 
+  64     4    16     4 
+Score = 14152
+
+[INFO] Chosen move: D
+
+1024    16             
+  64   512     2       
+  16   128     4     4 
+  64     4    32     4 
+Score = 14188
+
+[INFO] Chosen move: U
+
+1024    16     2     8 
+  64   512     4       
+  16   128    32       
+  64     4     2       
+Score = 14196
+
+[INFO] Chosen move: D
+
+1024    16     2       
+  64   512     4     2 
+  16   128    32       
+  64     4     2     8 
+Score = 14196
+
+[INFO] Chosen move: U
+
+1024    16     2     2 
+  64   512     4     8 
+  16   128    32     2 
+  64     4     2       
+Score = 14196
+
+[INFO] Chosen move: L
+
+1024    16     4       
+  64   512     4     8 
+  16   128    32     2 
+  64     4     2     4 
+Score = 14200
+
+[INFO] Chosen move: U
+
+1024    16     8     8 
+  64   512    32     2 
+  16   128     2     4 
+  64     4     4       
+Score = 14208
+
+[INFO] Chosen move: L
+
+1024    16    16     2 
+  64   512    32     2 
+  16   128     2     4 
+  64     8             
+Score = 14232
+
+[INFO] Chosen move: U
+
+1024    16    16     4 
+  64   512    32     4 
+  16   128     2     4 
+  64     8             
+Score = 14236
+
+[INFO] Chosen move: U
+
+1024    16    16     8 
+  64   512    32     4 
+  16   128     2       
+  64     8           4 
+Score = 14244
+
+[INFO] Chosen move: U
+
+1024    16    16     8 
+  64   512    32     8 
+  16   128     2       
+  64     8     4       
+Score = 14252
+
+[INFO] Chosen move: U
+
+1024    16    16    16 
+  64   512    32     2 
+  16   128     2       
+  64     8     4       
+Score = 14268
+
+[INFO] Chosen move: L
+
+1024    32    16     4 
+  64   512    32     2 
+  16   128     2       
+  64     8     4       
+Score = 14300
+
+[INFO] Chosen move: D
+
+1024    32    16       
+  64   512    32     2 
+  16   128     2     4 
+  64     8     4     2 
+Score = 14300
+
+[INFO] Chosen move: U
+
+1024    32    16     2 
+  64   512    32     4 
+  16   128     2     2 
+  64     8     4     4 
+Score = 14300
+
+[INFO] Chosen move: L
+
+1024    32    16     2 
+  64   512    32     4 
+  16   128     4     4 
+  64     8     8       
+Score = 14312
+
+[INFO] Chosen move: D
+
+1024    32    16     2 
+  64   512    32       
+  16   128     4     2 
+  64     8     8     8 
+Score = 14320
+
+[INFO] Chosen move: D
+
+1024    32    16       
+  64   512    32     2 
+  16   128     4     4 
+  64     8     8     8 
+Score = 14324
+
+[INFO] Chosen move: L
+
+1024    32    16       
+  64   512    32     2 
+  16   128     8     4 
+  64    16     8       
+Score = 14348
+
+[INFO] Chosen move: D
+
+1024    32             
+  64   512    16     2 
+  16   128    32     2 
+  64    16    16     4 
+Score = 14364
+
+[INFO] Chosen move: D
+
+1024    32           2 
+  64   512    16       
+  16   128    32     4 
+  64    16    16     4 
+Score = 14368
+
+[INFO] Chosen move: D
+
+1024    32             
+  64   512    16     2 
+  16   128    32     2 
+  64    16    16     8 
+Score = 14376
+
+[INFO] Chosen move: D
+
+1024    32             
+  64   512    16     2 
+  16   128    32     4 
+  64    16    16     8 
+Score = 14380
+
+[INFO] Chosen move: U
+
+1024    32    16     2 
+  64   512    32     4 
+  16   128    16     8 
+  64    16     2       
+Score = 14380
+
+[INFO] Chosen move: R
+
+1024    32    16     2 
+  64   512    32     4 
+  16   128    16     8 
+   4    64    16     2 
+Score = 14380
+
+[INFO] Chosen move: D
+
+1024    32     2     2 
+  64   512    16     4 
+  16   128    32     8 
+   4    64    32     2 
+Score = 14412
+
+[INFO] Chosen move: L
+
+1024    32     4     2 
+  64   512    16     4 
+  16   128    32     8 
+   4    64    32     2 
+Score = 14416
+
+[INFO] Chosen move: D
+
+1024    32     2     2 
+  64   512     4     4 
+  16   128    16     8 
+   4    64    64     2 
+Score = 14480
+
+[INFO] Chosen move: L
+
+1024    32     4       
+  64   512     8       
+  16   128    16     8 
+   4   128     2     4 
+Score = 14620
+
+[INFO] Chosen move: U
+
+1024    32     4     8 
+  64   512     8     4 
+  16   256    16       
+   4     4     2       
+Score = 14876
+
+[INFO] Chosen move: D
+
+1024    32     4     2 
+  64   512     8       
+  16   256    16     8 
+   4     4     2     4 
+Score = 14876
+
+[INFO] Chosen move: D
+
+1024    32     4     2 
+  64   512     8     2 
+  16   256    16     8 
+   4     4     2     4 
+Score = 14876
+
+[INFO] Chosen move: U
+
+1024    32     4     4 
+  64   512     8     8 
+  16   256    16     4 
+   4     4     2     2 
+Score = 14880
+
+[INFO] Chosen move: L
+
+1024    32     8       
+  64   512    16       
+  16   256    16     4 
+   8     4     4       
+Score = 14916
+
+[INFO] Chosen move: L
+
+1024    32     8     2 
+  64   512    16       
+  16   256    16     4 
+   8     8             
+Score = 14924
+
+[INFO] Chosen move: D
+
+1024    32     2       
+  64   512             
+  16   256     8     2 
+   8     8    32     4 
+Score = 14956
+
+[INFO] Chosen move: L
+
+1024    32     2       
+  64   512           4 
+  16   256     8     2 
+  16    32     4       
+Score = 14972
+
+[INFO] Chosen move: L
+
+1024    32     2       
+  64   512     4       
+  16   256     8     2 
+  16    32     4     2 
+Score = 14972
+
+[INFO] Chosen move: U
+
+1024    32     2     4 
+  64   512     4       
+  32   256     8       
+   2    32     4       
+Score = 15008
+
+[INFO] Chosen move: D
+
+1024    32     2       
+  64   512     4       
+  32   256     8     2 
+   2    32     4     4 
+Score = 15008
+
+[INFO] Chosen move: L
+
+1024    32     2       
+  64   512     4       
+  32   256     8     2 
+   2    32     8     2 
+Score = 15016
+
+[INFO] Chosen move: U
+
+1024    32     2     4 
+  64   512     4     4 
+  32   256    16       
+   2    32             
+Score = 15036
+
+[INFO] Chosen move: U
+
+1024    32     2     8 
+  64   512     4       
+  32   256    16       
+   2    32     2       
+Score = 15044
+
+[INFO] Chosen move: D
+
+1024    32     2       
+  64   512     4       
+  32   256    16     2 
+   2    32     2     8 
+Score = 15044
+
+[INFO] Chosen move: U
+
+1024    32     2     2 
+  64   512     4     8 
+  32   256    16     4 
+   2    32     2       
+Score = 15044
+
+[INFO] Chosen move: L
+
+1024    32     4       
+  64   512     4     8 
+  32   256    16     4 
+   2    32     2     2 
+Score = 15048
+
+[INFO] Chosen move: U
+
+1024    32     8     8 
+  64   512    16     4 
+  32   256     2     2 
+   2    32     2       
+Score = 15056
+
+[INFO] Chosen move: L
+
+1024    32    16       
+  64   512    16     4 
+  32   256     4     2 
+   2    32     2       
+Score = 15076
+
+[INFO] Chosen move: U
+
+1024    32    32     4 
+  64   512     4     2 
+  32   256     2       
+   2    32           2 
+Score = 15108
+
+[INFO] Chosen move: L
+
+1024    64     4       
+  64   512     4     2 
+  32   256     2       
+   2    32     2     4 
+Score = 15172
+
+[INFO] Chosen move: D
+
+1024    64           2 
+  64   512             
+  32   256     8     2 
+   2    32     4     4 
+Score = 15184
+
+[INFO] Chosen move: L
+
+1024    64     2       
+  64   512     2       
+  32   256     8     2 
+   2    32     8       
+Score = 15192
+
+[INFO] Chosen move: D
+
+1024    64           2 
+  64   512             
+  32   256     4       
+   2    32    16     2 
+Score = 15212
+
+[INFO] Chosen move: L
+
+1024    64     2       
+  64   512           4 
+  32   256     4       
+   2    32    16     2 
+Score = 15212
+
+[INFO] Chosen move: D
+
+1024    64     2       
+  64   512     2       
+  32   256     4     4 
+   2    32    16     2 
+Score = 15212
+
+[INFO] Chosen move: U
+
+1024    64     4     4 
+  64   512     4     2 
+  32   256    16       
+   2    32     4       
+Score = 15216
+
+[INFO] Chosen move: U
+
+1024    64     8     4 
+  64   512    16     2 
+  32   256     4       
+   2    32     2       
+Score = 15224
+
+[INFO] Chosen move: D
+
+1024    64     8     2 
+  64   512    16       
+  32   256     4     4 
+   2    32     2     2 
+Score = 15224
+
+[INFO] Chosen move: L
+
+1024    64     8     2 
+  64   512    16       
+  32   256     8     2 
+   2    32     4       
+Score = 15236
+
+[INFO] Chosen move: D
+
+1024    64     8       
+  64   512    16       
+  32   256     8     4 
+   2    32     4     4 
+Score = 15240
+
+[INFO] Chosen move: U
+
+1024    64     8     8 
+  64   512    16     2 
+  32   256     8       
+   2    32     4       
+Score = 15248
+
+[INFO] Chosen move: L
+
+1024    64    16       
+  64   512    16     2 
+  32   256     8       
+   2    32     4     4 
+Score = 15264
+
+[INFO] Chosen move: D
+
+1024    64           2 
+  64   512    32       
+  32   256     8     2 
+   2    32     4     4 
+Score = 15296
+
+[INFO] Chosen move: D
+
+1024    64     2       
+  64   512    32       
+  32   256     8     4 
+   2    32     4     4 
+Score = 15300
+
+[INFO] Chosen move: L
+
+1024    64     2       
+  64   512    32       
+  32   256     8     4 
+   2    32     8     2 
+Score = 15308
+
+[INFO] Chosen move: U
+
+1024    64     2     4 
+  64   512    32     2 
+  32   256    16       
+   2    32           4 
+Score = 15324
+
+[INFO] Chosen move: L
+
+1024    64     2     4 
+  64   512    32     2 
+  32   256    16     2 
+   2    32     4       
+Score = 15324
+
+[INFO] Chosen move: R
+
+1024    64     2     4 
+  64   512    32     2 
+  32   256    16     2 
+   4     2    32     4 
+Score = 15324
+
+[INFO] Chosen move: D
+
+1024    64     2     2 
+  64   512    32     4 
+  32   256    16     4 
+   4     2    32     4 
+Score = 15328
+
+[INFO] Chosen move: R
+
+   2  1024    64     4 
+  64   512    32     4 
+  32   256    16     4 
+   4     2    32     4 
+Score = 15332
+
+[INFO] Chosen move: U
+
+   2  1024    64     8 
+  64   512    32     8 
+  32   256    16       
+   4     2    32     2 
+Score = 15348
+
+[INFO] Chosen move: D
+
+   2  1024    64     2 
+  64   512    32       
+  32   256    16    16 
+   4     2    32     2 
+Score = 15364
+
+[INFO] Chosen move: R
+
+   2  1024    64     2 
+        64   512    32 
+   4    32   256    32 
+   4     2    32     2 
+Score = 15396
+
+[INFO] Chosen move: D
+
+   2  1024    64       
+        64   512     2 
+   2    32   256    64 
+   8     2    32     2 
+Score = 15468
+
+[INFO] Chosen move: D
+
+      1024    64       
+   2    64   512     2 
+   4    32   256    64 
+   8     2    32     2 
+Score = 15472
+
+[INFO] Chosen move: L
+
+1024    64     2       
+   2    64   512     2 
+   4    32   256    64 
+   8     2    32     2 
+Score = 15472
+
+[INFO] Chosen move: U
+
+1024   128     2     2 
+   2    32   512    64 
+   4     2   256     2 
+   8          32     2 
+Score = 15600
+
+[INFO] Chosen move: R
+
+   2  1024   128     4 
+   2    32   512    64 
+   4     2   256     2 
+         8    32     2 
+Score = 15604
+
+[INFO] Chosen move: U
+
+   4  1024   128     4 
+   4    32   512    64 
+   2     2   256     4 
+         8    32       
+Score = 15612
+
+[INFO] Chosen move: L
+
+   4  1024   128     4 
+   4    32   512    64 
+   4   256     4       
+   8    32           2 
+Score = 15616
+
+[INFO] Chosen move: D
+
+   2  1024             
+   4    32   128     4 
+   8   256   512    64 
+   8    32     4     2 
+Score = 15624
+
+[INFO] Chosen move: D
+
+      1024     4       
+   2    32   128     4 
+   4   256   512    64 
+  16    32     4     2 
+Score = 15640
+
+[INFO] Chosen move: U
+
+   2  1024     4     4 
+   4    32   128    64 
+  16   256   512     2 
+   4    32     4       
+Score = 15640
+
+[INFO] Chosen move: R
+
+         2  1024     8 
+   4    32   128    64 
+  16   256   512     2 
+   4     4    32     4 
+Score = 15648
+
+[INFO] Chosen move: R
+
+         2  1024     8 
+   4    32   128    64 
+  16   256   512     2 
+   2     8    32     4 
+Score = 15656
+
+[INFO] Chosen move: U
+
+   4     2  1024     8 
+  16    32   128    64 
+   2   256   512     2 
+   2     8    32     4 
+Score = 15656
+
+[INFO] Chosen move: D
+
+   2     2  1024     8 
+   4    32   128    64 
+  16   256   512     2 
+   4     8    32     4 
+Score = 15660
+
+[INFO] Chosen move: L
+
+   4  1024     8     2 
+   4    32   128    64 
+  16   256   512     2 
+   4     8    32     4 
+Score = 15664
+
+[INFO] Chosen move: U
+
+   8  1024     8     2 
+  16    32   128    64 
+   4   256   512     2 
+   4     8    32     4 
+Score = 15672
+
+[INFO] Chosen move: D
+
+   2  1024     8     2 
+   8    32   128    64 
+  16   256   512     2 
+   8     8    32     4 
+Score = 15680
+
+[INFO] Chosen move: L
+
+   2  1024     8     2 
+   8    32   128    64 
+  16   256   512     2 
+  16    32     4     2 
+Score = 15696
+
+[INFO] Chosen move: D
+
+   4  1024     8       
+   2    32   128     2 
+   8   256   512    64 
+  32    32     4     4 
+Score = 15732
+
+[INFO] Chosen move: R
+
+         4  1024     8 
+   2    32   128     2 
+   8   256   512    64 
+   4          64     8 
+Score = 15804
+
+[INFO] Chosen move: D
+
+   2        1024     8 
+   2     4   128     2 
+   8    32   512    64 
+   4   256    64     8 
+Score = 15804
+
+[INFO] Chosen move: L
+
+   2  1024     8     2 
+   2     4   128     2 
+   8    32   512    64 
+   4   256    64     8 
+Score = 15804
+
+[INFO] Chosen move: D
+
+   2  1024     8       
+   4     4   128     4 
+   8    32   512    64 
+   4   256    64     8 
+Score = 15812
+
+[INFO] Chosen move: L
+
+   2  1024     8     2 
+   8   128     4       
+   8    32   512    64 
+   4   256    64     8 
+Score = 15820
+
+[INFO] Chosen move: D
+
+   2  1024     8       
+   2   128     4     2 
+  16    32   512    64 
+   4   256    64     8 
+Score = 15836
+
+[INFO] Chosen move: D
+
+      1024     8     2 
+   4   128     4     2 
+  16    32   512    64 
+   4   256    64     8 
+Score = 15840
+
+[INFO] Chosen move: D
+
+      1024     8     4 
+   4   128     4     4 
+  16    32   512    64 
+   4   256    64     8 
+Score = 15844
+
+[INFO] Chosen move: L
+
+1024     8     4     2 
+   4   128     8       
+  16    32   512    64 
+   4   256    64     8 
+Score = 15852
+
+[INFO] Chosen move: D
+
+1024     8     4     2 
+   4   128     8     2 
+  16    32   512    64 
+   4   256    64     8 
+Score = 15852
+
+[INFO] Chosen move: U
+
+1024     8     4     4 
+   4   128     8    64 
+  16    32   512     8 
+   4   256    64     2 
+Score = 15856
+
+[INFO] Chosen move: R
+
+   2  1024     8     8 
+   4   128     8    64 
+  16    32   512     8 
+   4   256    64     2 
+Score = 15864
+
+[INFO] Chosen move: R
+
+   2     2  1024    16 
+   4   128     8    64 
+  16    32   512     8 
+   4   256    64     2 
+Score = 15880
+
+[INFO] Chosen move: L
+
+   4  1024    16     2 
+   4   128     8    64 
+  16    32   512     8 
+   4   256    64     2 
+Score = 15884
+
+[INFO] Chosen move: U
+
+   8  1024    16     2 
+  16   128     8    64 
+   4    32   512     8 
+   4   256    64     2 
+Score = 15892
+
+[INFO] Chosen move: U
+
+   8  1024    16     2 
+  16   128     8    64 
+   8    32   512     8 
+   2   256    64     2 
+Score = 15900
